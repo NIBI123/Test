@@ -7,7 +7,7 @@ import pandas as pd
 st.set_page_config(layout="wide")
 
 def intro():
-    st.write("# Velkommen til bottenAnna's Fantasy Site! 👋")
+    st.write("# Testng testing testing! 👋")
 
 page_names_to_funcs = {
     "Hovedside": intro,
