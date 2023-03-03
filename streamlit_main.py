@@ -1,9 +1,4 @@
 import streamlit as st
-import pathlib
-from bs4 import BeautifulSoup
-import logging
-import shutil
-import pandas as pd
 st.set_page_config(layout="wide")
 
 def intro():
