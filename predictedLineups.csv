@@ -1,0 +1,1343 @@
+﻿team,player,pos,value [m],StartsIARow,gs%,gp%,sp_GW1,sp_GW2,sp_GW3,xGS,game
+Augsburg,Rafal Gikiewicz,G,3.9,0.0,0.77,0.77,0.98,0.98,0.98,11.76,BL
+Augsburg,Iago,F,2.5,0.0,0.59,0.64,0.95,0.66,0.66,8.26,BL
+Augsburg,Jeffrey Gouweleeuw,F,2.7,0.0,0.91,0.91,0.95,0.8,0.8,9.75,BL
+Augsburg,Robert Gumny,F,3.2,0.0,0.68,0.77,0.95,0.8,0.8,9.75,BL
+Augsburg,Renato Veiga,M,2.0,0.0,0.09,0.09,0.95,0.95,0.95,11.4,BL
+Augsburg,Arne Engels,M,2.6,0.0,0.27,0.27,0.86,0.73,0.73,8.92,BL
+Augsburg,Arne Maier,M,2.7,0.0,0.55,0.77,0.95,0.8,0.8,9.75,BL
+Augsburg,Niklas Dorsch,M,3.0,0.0,0.0,0.18,0.95,0.66,0.66,8.26,BL
+Augsburg,Dion Beljo,A,2.1,0.0,0.23,0.27,0.7,0.61,0.61,7.44,BL
+Augsburg,Mergim Berisha,A,4.0,0.0,0.68,0.68,0.95,0.78,0.78,9.59,BL
+Augsburg,Ermedin Demirovic,A,4.2,0.0,0.91,0.91,0.95,0.78,0.78,9.59,BL
+Bayern München,Yann Sommer,G,5.4,0.0,0.73,0.73,0.98,0.98,0.98,11.76,BL
+Bayern München,Dayot Upamecano,F,4.6,0.0,0.91,0.91,0.86,0.72,0.72,8.76,BL
+Bayern München,Alphonso Davies,F,5.0,0.0,0.77,0.82,0.95,0.78,0.78,9.59,BL
+Bayern München,Matthijs de Ligt,F,5.3,0.0,0.64,0.82,0.95,0.78,0.78,9.59,BL
+Bayern München,Benjamin Pavard,F,5.4,0.0,0.73,0.82,0.95,0.78,0.78,9.59,BL
+Bayern München,Leon Goretzka,M,6.6,0.0,0.64,0.73,0.75,0.65,0.65,7.85,BL
+Bayern München,Joshua Kimmich,M,6.8,0.0,0.86,0.91,0.95,0.78,0.78,9.59,BL
+Bayern München,Kingsley Coman,A,6.8,0.0,0.32,0.64,0.95,0.75,0.75,9.21,BL
+Bayern München,Thomas Müller,A,7.8,0.0,0.5,0.64,0.95,0.78,0.78,9.59,BL
+Bayern München,Eric Maxim Choupo-Moting,A,8.0,0.0,0.5,0.68,0.95,0.78,0.2,3.74,BL
+Bayern München,Jamal Musiala,A,9.0,0.0,0.77,0.91,0.95,0.78,0.78,9.59,BL
+Bochum,Manuel Riemann,G,3.6,0.0,0.95,0.95,0.98,0.98,0.98,11.76,BL
+Bochum,Danilo Soares,F,2.5,0.0,0.68,0.68,0.95,0.78,0.78,9.59,BL
+Bochum,Saidy Janko,F,2.5,0.0,0.36,0.59,0.7,0.63,0.63,7.6,BL
+Bochum,Ivan Ordets,F,2.5,0.0,0.77,0.86,0.95,0.78,0.78,9.59,BL
+Bochum,Erhan Masovic,F,2.8,0.0,0.45,0.73,0.95,0.78,0.78,9.59,BL
+Bochum,Takuma Asano,M,2.7,0.0,0.41,0.55,0.86,0.72,0.72,8.76,BL
+Bochum,Kevin Stöger,M,3.0,0.0,0.82,0.91,0.95,0.78,0.78,9.59,BL
+Bochum,Pierre Kunde Malong,M,3.1,0.0,0.09,0.18,0.9,0.9,0.9,10.83,BL
+Bochum,Philipp Förster,M,3.4,0.0,0.5,0.77,0.75,0.65,0.65,7.85,BL
+Bochum,Christopher Antwi-Adjei,M,3.8,0.0,0.41,0.73,0.95,0.78,0.78,9.59,BL
+Bochum,Philipp Hofmann,A,3.4,0.0,0.82,0.95,0.95,0.8,0.8,9.75,BL
+Borussia Dortmund,Gregor Kobel,G,6.3,0.0,0.77,0.77,0.98,0.98,0.98,11.76,BL
+Borussia Dortmund,Julian Ryerson,F,4.0,0.0,0.77,0.82,0.95,0.78,0.78,9.59,BL
+Borussia Dortmund,Niklas Süle,F,5.1,0.0,0.59,0.82,0.95,0.78,0.78,9.59,BL
+Borussia Dortmund,Nico Schlotterbeck,F,5.5,0.0,0.95,0.95,0.95,0.8,0.8,9.75,BL
+Borussia Dortmund,Salih Özcan,M,3.8,0.0,0.68,0.77,0.7,0.61,0.61,7.44,BL
+Borussia Dortmund,Emre Can,M,4.4,0.0,0.36,0.68,0.86,0.72,0.72,8.76,BL
+Borussia Dortmund,Marius Wolf,M,4.8,0.0,0.36,0.64,0.75,0.65,0.65,7.85,BL
+Borussia Dortmund,Marco Reus,M,6.5,0.0,0.45,0.59,0.95,0.78,0.78,9.59,BL
+Borussia Dortmund,Jude Bellingham,M,6.6,0.0,0.86,0.91,0.95,0.78,0.78,9.59,BL
+Borussia Dortmund,Julian Brandt,M,7.2,0.0,0.82,0.95,0.95,0.8,0.8,9.75,BL
+Borussia Dortmund,Sebastien Haller,A,8.1,0.0,0.09,0.27,0.95,0.95,0.95,11.4,BL
+Eintracht Frankfurt,Kevin Trapp,G,4.9,0.0,0.91,0.91,0.98,0.98,0.98,11.76,BL
+Eintracht Frankfurt,Makoto Hasebe,F,2.6,0.0,0.23,0.32,0.95,0.78,0.78,9.59,BL
+Eintracht Frankfurt,Aurelio Buta,F,2.6,0.0,0.14,0.23,0.82,0.82,0.82,9.83,BL
+Eintracht Frankfurt,Evan N'Dicka,F,3.3,0.0,0.95,0.95,0.94,0.79,0.79,9.65,BL
+Eintracht Frankfurt,Lucas 'Tuta' Silva Melo,F,4.2,0.0,0.91,0.91,0.95,0.78,0.78,9.59,BL
+Eintracht Frankfurt,Philipp Max,F,4.6,0.0,0.14,0.14,0.95,0.95,0.95,11.4,BL
+Eintracht Frankfurt,Sebastian Rode,M,4.0,0.0,0.41,0.77,0.95,0.71,0.71,8.74,BL
+Eintracht Frankfurt,Mario Götze,M,4.1,0.0,0.95,0.95,0.91,0.77,0.77,9.43,BL
+Eintracht Frankfurt,Jesper Lindstrøm,M,6.0,0.0,0.82,0.91,0.95,0.8,0.8,9.75,BL
+Eintracht Frankfurt,Daichi Kamada,M,6.2,0.0,0.73,0.86,0.95,0.78,0.78,9.59,BL
+Eintracht Frankfurt,Randal Kolo Muani,A,7.4,0.0,0.86,0.91,0.94,0.79,0.79,9.65,BL
+FC Köln,Marvin Schwäbe,G,4.4,0.0,0.95,0.95,0.98,0.98,0.98,11.76,BL
+FC Köln,Julian Chabot,F,2.8,0.0,0.36,0.36,0.95,0.8,0.8,9.75,BL
+FC Köln,Timo Hubers,F,3.0,0.0,0.68,0.73,0.95,0.78,0.78,9.59,BL
+FC Köln,Jonas Hector,F,3.2,0.0,0.86,0.86,0.95,0.8,0.8,9.75,BL
+FC Köln,Benno Schmitz,F,3.3,0.0,0.86,0.91,0.93,0.79,0.79,9.58,BL
+FC Köln,Eric Martel,M,3.1,0.0,0.59,0.82,0.86,0.72,0.72,8.76,BL
+FC Köln,Dejan Ljubicic,M,3.5,0.0,0.41,0.64,0.86,0.68,0.68,8.38,BL
+FC Köln,Ellyes Skhiri,M,3.9,0.0,0.91,0.91,0.95,0.8,0.8,9.75,BL
+FC Köln,Linton Maina,M,3.9,0.0,0.68,0.91,0.95,0.8,0.8,9.75,BL
+FC Köln,Florian Kainz,M,4.8,0.0,0.86,0.91,0.95,0.8,0.8,9.75,BL
+FC Köln,Steffen Tigges,A,3.9,0.0,0.64,0.82,0.95,0.78,0.78,9.59,BL
+Freiburg,Mark Flekken,G,5.8,0.0,0.95,0.95,0.98,0.98,0.98,11.76,BL
+Freiburg,Christian Günter,F,4.2,0.0,0.95,0.95,0.95,0.8,0.8,9.75,BL
+Freiburg,Philipp Lienhart,F,4.3,0.0,0.91,0.95,0.86,0.72,0.72,8.76,BL
+Freiburg,Kiliann Sildillia,F,4.5,0.0,0.77,0.82,0.7,0.61,0.61,7.44,BL
+Freiburg,Matthias Ginter,F,5.3,0.0,0.95,0.95,0.95,0.8,0.8,9.75,BL
+Freiburg,Nicolas Höfler,M,3.5,0.0,0.91,0.91,0.95,0.78,0.78,9.59,BL
+Freiburg,Maximilian Eggestein,M,3.6,0.0,0.73,0.91,0.95,0.78,0.78,9.59,BL
+Freiburg,Ritsu Doan,M,5.2,0.0,0.86,0.95,0.93,0.79,0.79,9.58,BL
+Freiburg,Vincenzo Grifo,M,8.2,0.0,0.77,0.91,0.95,0.78,0.78,9.59,BL
+Freiburg,Lucas Höler,A,3.6,0.0,0.18,0.59,0.95,0.78,0.78,9.59,BL
+Freiburg,Michael Gregoritsch,A,6.4,0.0,0.91,0.95,0.95,0.78,0.78,9.59,BL
+Hertha BSC,Oliver Christensen,G,3.6,0.0,0.95,0.95,0.98,0.98,0.98,11.76,BL
+Hertha BSC,Agustin Rogel,F,2.5,0.0,0.41,0.5,0.76,0.62,0.62,7.55,BL
+Hertha BSC,Marton Dardai,F,2.7,0.0,0.14,0.41,0.92,0.73,0.73,8.99,BL
+Hertha BSC,Marc-Oliver Kempf,F,3.0,0.0,0.95,0.95,0.92,0.78,0.78,9.53,BL
+Hertha BSC,Marvin Plattenhardt,F,3.0,0.0,0.77,0.82,0.95,0.78,0.78,9.59,BL
+Hertha BSC,Tolga Cigerci,M,2.6,0.0,0.09,0.14,0.95,0.95,0.95,11.4,BL
+Hertha BSC,Lucas Tousart,M,3.2,0.0,0.91,0.91,0.95,0.8,0.8,9.75,BL
+Hertha BSC,Suat Serdar,M,3.2,0.0,0.82,0.91,0.95,0.78,0.78,9.59,BL
+Hertha BSC,Marco Richter,A,3.2,0.0,0.5,0.82,0.83,0.72,0.72,8.72,BL
+Hertha BSC,Florian Niederlechner,A,3.5,0.0,0.59,0.82,0.95,0.78,0.78,9.59,BL
+Hertha BSC,Dodi Lukebakio,A,4.2,0.0,0.82,0.91,0.94,0.78,0.78,9.48,BL
+Hoffenheim,Oliver Baumann,G,4.5,0.0,0.95,0.95,0.98,0.98,0.98,11.76,BL
+Hoffenheim,Kevin Akpoguma,F,2.9,0.0,0.45,0.77,0.95,0.75,0.75,9.21,BL
+Hoffenheim,Kevin Vogt,F,2.9,0.0,0.73,0.73,0.95,0.75,0.75,9.21,BL
+Hoffenheim,Pavel Kaderabek,F,3.4,0.0,0.36,0.77,0.95,0.78,0.78,9.59,BL
+Hoffenheim,Jose 'Angelino' Tasende,F,3.4,0.0,0.86,0.91,0.95,0.8,0.8,9.75,BL
+Hoffenheim,Ozan Kabak,F,3.8,0.0,0.86,0.86,0.95,0.78,0.78,9.59,BL
+Hoffenheim,Tom Bischof,M,2.0,0.0,0.14,0.32,0.7,0.7,0.7,8.44,BL
+Hoffenheim,Thomas Delaney,M,2.9,0.0,0.23,0.5,0.95,0.78,0.78,9.59,BL
+Hoffenheim,Christoph Baumgartner,M,4.1,0.0,0.95,0.95,0.95,0.8,0.8,9.75,BL
+Hoffenheim,Munas Dabbur,A,3.6,0.0,0.18,0.59,0.61,0.43,0.43,5.29,BL
+Hoffenheim,Andrej Kramaric,A,4.2,0.0,0.64,0.91,0.86,0.72,0.72,8.76,BL
+Leverkusen,Lukas Hradecky,G,4.8,0.0,0.91,0.91,0.98,0.98,0.98,11.76,BL
+Leverkusen,Jonathan Tah,F,3.6,0.0,0.82,0.95,0.94,0.78,0.78,9.48,BL
+Leverkusen,Piero Hincapie,F,3.6,0.0,0.73,0.86,0.94,0.78,0.78,9.48,BL
+Leverkusen,Edmond Tapsoba,F,3.7,0.0,0.95,0.95,0.95,0.8,0.8,9.75,BL
+Leverkusen,Mitchel Bakker,F,4.3,0.0,0.5,0.77,0.95,0.75,0.75,9.21,BL
+Leverkusen,Jeremie Frimpong,F,5.3,0.0,0.86,0.95,0.95,0.78,0.78,9.59,BL
+Leverkusen,Exequiel Palacios,M,3.6,0.0,0.45,0.68,0.95,0.78,0.78,9.59,BL
+Leverkusen,Robert Andrich,M,3.7,0.0,0.82,0.86,0.95,0.8,0.8,9.75,BL
+Leverkusen,Florian Wirtz,M,4.8,0.0,0.14,0.27,0.95,0.78,0.78,9.59,BL
+Leverkusen,Sardar Azmoun,A,3.7,0.0,0.14,0.5,0.88,0.66,0.66,8.12,BL
+Leverkusen,Moussa Diaby,A,5.8,0.0,0.91,0.91,0.94,0.78,0.78,9.48,BL
+Mainz 05,Robin Zentner,G,4.6,0.0,0.68,0.68,0.98,0.98,0.98,11.76,BL
+Mainz 05,Andreas Hanche-Olsen,F,2.6,0.0,0.23,0.23,0.95,0.78,0.78,9.59,BL
+Mainz 05,Stefan Bell,F,2.8,0.0,0.59,0.77,0.95,0.78,0.78,9.59,BL
+Mainz 05,Danny Da Costa,F,2.8,0.0,0.32,0.55,0.95,0.78,0.78,9.59,BL
+Mainz 05,Anthony Caci,F,3.5,0.0,0.55,0.82,0.95,0.8,0.8,9.75,BL
+Mainz 05,Leandro Barreiro Martins,M,3.0,0.0,0.59,0.86,0.95,0.8,0.8,9.75,BL
+Mainz 05,Edimilson Fernandes,M,3.3,0.0,0.68,0.86,0.95,0.8,0.8,9.75,BL
+Mainz 05,Dominik Kohr,M,3.6,0.0,0.77,0.82,0.9,0.75,0.75,9.17,BL
+Mainz 05,Jae-Sung Lee,M,4.6,0.0,0.68,0.95,0.95,0.78,0.78,9.59,BL
+Mainz 05,Ludovic Ajorque,A,3.4,0.0,0.59,0.82,0.95,0.82,0.82,9.91,BL
+Mainz 05,Marcus Ingvartsen,A,4.7,0.0,0.36,0.68,0.9,0.72,0.72,8.79,BL
+Mönchengladbach,Tobias Sippel,G,4.5,0.0,0.14,0.14,0.88,0.88,0.88,10.58,BL
+Mönchengladbach,Ko Itakura,F,3.2,0.0,0.5,0.55,0.95,0.8,0.8,9.75,BL
+Mönchengladbach,Joseph Scally,F,3.6,0.0,0.82,0.86,0.93,0.77,0.77,9.41,BL
+Mönchengladbach,Nico Elvedi,F,4.3,0.0,0.86,0.86,0.9,0.77,0.77,9.34,BL
+Mönchengladbach,Ramy Bensebaini,F,5.1,0.0,0.86,0.86,0.95,0.78,0.78,9.59,BL
+Mönchengladbach,Christoph Kramer,M,3.0,0.0,0.91,0.91,0.95,0.8,0.8,9.75,BL
+Mönchengladbach,Kouadio Kone,M,3.5,0.0,0.91,0.91,0.95,0.8,0.8,9.75,BL
+Mönchengladbach,Lars Stindl,M,4.7,0.0,0.55,0.73,0.95,0.78,0.78,9.59,BL
+Mönchengladbach,Jonas Hofmann,M,6.1,0.0,0.82,0.82,0.95,0.78,0.78,9.59,BL
+Mönchengladbach,Alassane Plea,A,5.1,0.0,0.59,0.77,0.86,0.72,0.72,8.76,BL
+Mönchengladbach,Marcus Thuram,A,7.2,0.0,0.86,0.91,0.93,0.77,0.77,9.41,BL
+RB Leipzig,Janis Blaswich,G,5.5,0.0,0.64,0.64,0.98,0.98,0.98,11.76,BL
+RB Leipzig,Josko Gvardiol,F,3.8,0.0,0.64,0.86,0.95,0.8,0.8,9.75,BL
+RB Leipzig,David Raum,F,4.2,0.0,0.68,0.91,0.61,0.55,0.55,6.61,BL
+RB Leipzig,Benjamin Henrichs,F,4.6,0.0,0.64,0.82,0.86,0.72,0.72,8.76,BL
+RB Leipzig,Willi Orban,F,5.4,0.0,0.91,0.91,0.95,0.78,0.78,9.59,BL
+RB Leipzig,Kevin Kampl,M,3.7,0.0,0.41,0.77,0.81,0.57,0.57,7.03,BL
+RB Leipzig,Xaver Schlager,M,4.8,0.0,0.68,0.77,0.95,0.8,0.8,9.75,BL
+RB Leipzig,Dominik Szoboszlai,M,6.3,0.0,0.77,0.86,0.95,0.8,0.8,9.75,BL
+RB Leipzig,Christopher Nkunku,M,8.6,0.0,0.64,0.73,0.95,0.95,0.95,11.4,BL
+RB Leipzig,André Silva,A,6.7,0.0,0.68,0.95,0.95,0.8,0.8,9.75,BL
+RB Leipzig,Timo Werner,A,7.5,0.0,0.55,0.68,0.95,0.78,0.78,9.59,BL
+Schalke 04,Ralf Fährmann,G,3.6,0.0,0.18,0.18,0.98,0.98,0.98,11.76,BL
+Schalke 04,Henning Matriciani,F,2.4,0.0,0.45,0.45,0.7,0.58,0.58,7.06,BL
+Schalke 04,Cedric Brunner,F,2.6,0.0,0.82,0.82,0.93,0.79,0.79,9.58,BL
+Schalke 04,Maya Yoshida,F,2.7,0.0,0.95,0.95,0.95,0.8,0.8,9.75,BL
+Schalke 04,Moritz Jenz,F,2.8,0.0,0.18,0.18,0.95,0.78,0.78,9.59,BL
+Schalke 04,Alex Kral,M,2.1,0.0,0.59,0.73,0.95,0.78,0.78,9.59,BL
+Schalke 04,Tom Krauss,M,2.5,0.0,0.95,0.95,0.95,0.8,0.8,9.75,BL
+Schalke 04,Rodrigo Zalazar,M,3.1,0.0,0.27,0.5,0.86,0.68,0.68,8.38,BL
+Schalke 04,Dominick Drexler,M,3.2,0.0,0.5,0.77,0.86,0.64,0.64,7.91,BL
+Schalke 04,Marius Bülter,A,3.1,0.0,0.82,0.95,0.95,0.78,0.78,9.59,BL
+Schalke 04,Michael Frey,A,3.2,0.0,0.14,0.27,0.95,0.95,0.95,11.4,BL
+Stuttgart,Fabian Bredlow,G,3.1,0.0,0.09,0.09,0.98,0.98,0.98,11.76,BL
+Stuttgart,Dan-Axel Zagadou,F,2.5,0.0,0.27,0.32,0.86,0.64,0.64,7.91,BL
+Stuttgart,Josha Vagnoman,F,2.5,0.0,0.32,0.55,0.7,0.53,0.53,6.59,BL
+Stuttgart,Hiroki Ito,F,2.6,0.0,0.82,0.86,0.95,0.8,0.8,9.75,BL
+Stuttgart,Atakan Karazor,F,2.6,0.0,0.5,0.82,0.95,0.8,0.8,9.75,BL
+Stuttgart,Konstantinos Mavropanos,F,3.1,0.0,0.77,0.82,0.95,0.78,0.78,9.59,BL
+Stuttgart,Genki Haraguchi,M,3.2,0.0,0.41,0.64,0.95,0.78,0.78,9.59,BL
+Stuttgart,Wataru Endo,M,3.3,0.0,0.91,0.91,0.95,0.8,0.8,9.75,BL
+Stuttgart,Chris Führich,M,3.4,0.0,0.64,0.91,0.95,0.78,0.78,9.59,BL
+Stuttgart,Tiago Tomas,A,3.0,0.0,0.5,0.68,0.7,0.58,0.58,7.06,BL
+Stuttgart,Silas Katompa Mvumpa,A,3.5,0.0,0.73,0.82,0.95,0.78,0.78,9.59,BL
+Union Berlin,Frederik Rønnow,G,5.0,0.0,0.77,0.77,0.98,0.98,0.98,11.76,BL
+Union Berlin,Josip Juranovic,F,3.7,0.0,0.09,0.09,0.95,0.95,0.95,11.4,BL
+Union Berlin,Diogo Leite,F,3.7,0.0,0.77,0.77,0.95,0.78,0.78,9.59,BL
+Union Berlin,Niko Giesselmann,F,3.8,0.0,0.5,0.77,0.66,0.58,0.58,7.02,BL
+Union Berlin,Danilho Doekhi,F,4.5,0.0,0.55,0.55,0.95,0.8,0.8,9.75,BL
+Union Berlin,Robin Knoche,F,4.5,0.0,0.91,0.91,0.95,0.8,0.8,9.75,BL
+Union Berlin,Rani Khedira,M,3.2,0.0,0.91,0.91,0.95,0.8,0.8,9.75,BL
+Union Berlin,Aissa Laidouni,M,3.5,0.0,0.09,0.14,0.95,0.95,0.95,11.4,BL
+Union Berlin,Janik Haberer,M,5.1,0.0,0.86,0.86,0.95,0.8,0.8,9.75,BL
+Union Berlin,Sheraldo Becker,M,6.3,0.0,0.91,0.95,0.95,0.78,0.78,9.59,BL
+Union Berlin,Kevin Behrens,A,4.0,0.0,0.36,0.95,0.95,0.78,0.78,9.59,BL
+Werder Bremen,Jiri Pavlenka,G,4.3,0.0,0.95,0.95,0.98,0.98,0.98,11.76,BL
+Werder Bremen,Niklas Stark,F,2.5,0.0,0.55,0.73,0.75,0.66,0.66,8.01,BL
+Werder Bremen,Marco Friedl,F,3.0,0.0,0.86,0.86,0.95,0.78,0.78,9.59,BL
+Werder Bremen,Milos Veljkovic,F,3.0,0.0,0.68,0.82,0.9,0.75,0.75,9.17,BL
+Werder Bremen,Christian Gross,F,3.2,0.0,0.68,0.77,0.95,0.78,0.78,9.59,BL
+Werder Bremen,Anthony Jung,F,3.7,0.0,0.91,0.95,0.95,0.8,0.8,9.75,BL
+Werder Bremen,Mitchell Weiser,F,4.0,0.0,0.86,0.86,0.61,0.55,0.55,6.61,BL
+Werder Bremen,Niklas Schmidt,M,2.7,0.0,0.23,0.59,0.86,0.72,0.72,8.76,BL
+Werder Bremen,Leonardo Bittencourt,M,3.5,0.0,0.55,0.64,0.95,0.78,0.78,9.59,BL
+Werder Bremen,Marvin Ducksch,A,4.9,0.0,0.95,0.95,0.95,0.8,0.8,9.75,BL
+Werder Bremen,Niclas Füllkrug,A,7.2,0.0,0.91,0.91,0.95,0.8,0.8,9.75,BL
+Wolfsburg,Koen Casteels,G,5.1,0.0,0.95,0.95,0.98,0.98,0.98,11.76,BL
+Wolfsburg,Kilian Fischer,F,2.6,0.0,0.05,0.14,0.95,0.95,0.95,11.4,BL
+Wolfsburg,Maxence Lacroix,F,3.7,0.0,0.5,0.73,0.77,0.63,0.63,7.66,BL
+Wolfsburg,Paulo Otavio,F,4.2,0.0,0.82,0.82,0.95,0.78,0.78,9.59,BL
+Wolfsburg,Micky van de Ven,F,4.4,0.0,0.95,0.95,0.95,0.8,0.8,9.75,BL
+Wolfsburg,Mattias Svanberg,M,4.1,0.0,0.5,0.91,0.95,0.78,0.78,9.59,BL
+Wolfsburg,Patrick Wimmer,M,4.4,24.0,0.59,0.64,0.95,0.86,0.86,10.41,BL
+Wolfsburg,Ridle Baku,M,5.0,0.0,0.91,0.95,0.83,0.72,0.72,8.72,BL
+Wolfsburg,Maximilian Arnold,M,5.0,0.0,0.95,0.95,0.95,0.8,0.8,9.75,BL
+Wolfsburg,Yannick Gerhardt,M,5.1,0.0,0.59,0.73,0.95,0.78,0.78,9.59,BL
+Wolfsburg,Jonas Wind,A,4.5,0.0,0.32,0.55,0.88,0.75,0.75,9.13,BL
+AC Milan,Ciprian Tatarusanu,G,5.0,0.0,0.67,0.67,0.95,0.0,0.0,0.95,CL
+AC Milan,Malick Thiaw,F,2.6,0.0,0.29,0.42,0.95,0.0,0.0,0.95,CL
+AC Milan,Simon Kjær,F,3.3,0.0,0.33,0.46,0.95,0.0,0.0,0.95,CL
+AC Milan,Pierre Kalulu,F,4.4,0.0,0.75,0.96,0.95,0.0,0.0,0.95,CL
+AC Milan,Theo Hernandez,F,6.0,0.0,0.83,0.83,0.95,0.0,0.0,0.95,CL
+AC Milan,Rade Krunic,M,3.2,0.0,0.38,0.5,0.95,0.0,0.0,0.95,CL
+AC Milan,Alexis Saelemaekers,M,4.0,0.0,0.33,0.62,0.95,0.0,0.0,0.95,CL
+AC Milan,Brahim Diaz,M,4.2,0.0,0.67,0.83,0.95,0.0,0.0,0.95,CL
+AC Milan,Sandro Tonali,M,4.8,0.0,0.75,0.83,0.95,0.0,0.0,0.95,CL
+AC Milan,Olivier Giroud,A,5.9,0.0,0.67,0.88,0.95,0.0,0.0,0.95,CL
+AC Milan,Rafael Leão,A,6.0,0.0,0.75,0.92,0.95,0.0,0.0,0.95,CL
+Bayern München,Yann Sommer,G,6.1,0.0,0.73,0.73,0.95,0.0,0.0,0.95,CL
+Bayern München,Dayot Upamecano,F,5.5,0.0,0.91,0.91,0.95,0.0,0.0,0.95,CL
+Bayern München,Benjamin Pavard,F,5.8,0.0,0.73,0.82,0.95,0.0,0.0,0.95,CL
+Bayern München,Matthijs de Ligt,F,5.9,0.0,0.64,0.82,0.95,0.0,0.0,0.95,CL
+Bayern München,Joao Cancelo,F,6.1,0.0,0.82,0.91,0.95,0.0,0.0,0.95,CL
+Bayern München,Leon Goretzka,M,5.9,0.0,0.64,0.73,0.95,0.0,0.0,0.95,CL
+Bayern München,Joshua Kimmich,M,6.0,0.0,0.86,0.91,0.95,0.0,0.0,0.95,CL
+Bayern München,Eric Maxim Choupo-Moting,A,4.1,0.0,0.5,0.68,0.95,0.0,0.0,0.95,CL
+Bayern München,Jamal Musiala,A,6.0,0.0,0.77,0.91,0.95,0.0,0.0,0.95,CL
+Bayern München,Kingsley Coman,A,6.0,0.0,0.32,0.64,0.95,0.0,0.0,0.95,CL
+Bayern München,Leroy Sane,A,7.9,0.0,0.59,0.86,0.95,0.0,0.0,0.95,CL
+Benfica,Odysseas Vlachodimos,G,4.5,0.0,,,0.95,0.0,0.0,0.95,CL
+Benfica,Antonio Silva,F,2.6,0.0,,,0.95,0.0,0.0,0.95,CL
+Benfica,Alexander Bah,F,3.0,0.0,,,0.95,0.0,0.0,0.95,CL
+Benfica,Nicolas Otamendi,F,3.4,0.0,,,0.95,0.0,0.0,0.95,CL
+Benfica,Alejandro 'Alex' Grimaldo,F,4.9,0.0,,,0.95,0.0,0.0,0.95,CL
+Benfica,Fredrik Aursnes,M,2.8,0.0,,,0.95,0.0,0.0,0.95,CL
+Benfica,Chiquinho,M,2.8,0.0,,,0.95,0.0,0.0,0.95,CL
+Benfica,Florentino Luis,M,3.3,0.0,,,0.95,0.0,0.0,0.95,CL
+Benfica,Joao Mario,M,4.6,0.0,,,0.95,0.0,0.0,0.95,CL
+Benfica,Rafa Silva,M,5.6,0.0,,,0.95,0.0,0.0,0.95,CL
+Benfica,Goncalo Ramos,A,4.4,0.0,,,0.95,0.0,0.0,0.95,CL
+Borussia Dortmund,Gregor Kobel,G,4.9,0.0,0.77,0.77,0.95,0.0,0.0,0.95,CL
+Borussia Dortmund,Nico Schlotterbeck,F,3.3,0.0,0.95,0.95,0.95,0.0,0.0,0.95,CL
+Borussia Dortmund,Raphael Guerreiro,F,4.2,0.0,0.73,0.73,0.95,0.0,0.0,0.95,CL
+Borussia Dortmund,Niklas Süle,F,4.3,0.0,0.59,0.82,0.95,0.0,0.0,0.95,CL
+Borussia Dortmund,Salih Özcan,M,2.7,0.0,0.68,0.77,0.95,0.0,0.0,0.95,CL
+Borussia Dortmund,Marius Wolf,M,3.1,0.0,0.36,0.64,0.95,0.0,0.0,0.95,CL
+Borussia Dortmund,Emre Can,M,3.6,0.0,0.36,0.68,0.95,0.0,0.0,0.95,CL
+Borussia Dortmund,Jude Bellingham,M,4.9,0.0,0.86,0.91,0.95,0.0,0.0,0.95,CL
+Borussia Dortmund,Julian Brandt,M,5.0,0.0,0.82,0.95,0.95,0.0,0.0,0.95,CL
+Borussia Dortmund,Karim-David Adeyemi,A,5.9,0.0,0.55,0.73,0.95,0.0,0.0,0.95,CL
+Borussia Dortmund,Sebastien Haller,A,7.0,0.0,0.09,0.27,0.95,0.0,0.0,0.95,CL
+Chelsea,Kepa Arrizabalaga,G,4.8,0.0,0.62,0.62,0.95,0.0,0.0,0.95,CL
+Chelsea,Ben Chilwell,F,3.7,0.0,0.21,0.5,0.95,0.0,0.0,0.95,CL
+Chelsea,Thiago Silva,F,3.8,0.0,0.79,0.83,0.95,0.0,0.0,0.95,CL
+Chelsea,Kalidou Koulibaly,F,4.7,0.0,0.54,0.62,0.95,0.0,0.0,0.95,CL
+Chelsea,Reece James,F,4.9,0.0,0.38,0.42,0.95,0.0,0.0,0.95,CL
+Chelsea,Ruben Loftus-Cheek,M,3.2,0.0,0.54,0.62,0.95,0.0,0.0,0.95,CL
+Chelsea,Enzo Fernandez,M,3.7,0.0,0.12,0.12,0.95,0.0,0.0,0.95,CL
+Chelsea,Mykhailo Mudryk,M,4.1,0.0,0.08,0.17,0.95,0.0,0.0,0.95,CL
+Chelsea,Hakim Ziyech,M,4.5,0.0,0.21,0.5,0.95,0.0,0.0,0.95,CL
+Chelsea,Kai Havertz,M,6.4,0.0,0.79,0.92,0.95,0.0,0.0,0.95,CL
+Chelsea,Joao Felix,A,6.0,0.0,0.42,0.71,0.95,0.0,0.0,0.95,CL
+Club Brügge,Simon Mignolet,G,4.3,0.0,,,0.95,0.0,0.0,0.95,CL
+Club Brügge,Jack Hendry,F,2.5,0.0,,,0.95,0.0,0.0,0.95,CL
+Club Brügge,Denis Odoi,F,2.7,0.0,,,0.95,0.0,0.0,0.95,CL
+Club Brügge,Clinton Mata,F,3.0,0.0,,,0.95,0.0,0.0,0.95,CL
+Club Brügge,Brandon Mechele,F,3.4,0.0,,,0.95,0.0,0.0,0.95,CL
+Club Brügge,Bjorn Meijer,F,3.4,0.0,,,0.95,0.0,0.0,0.95,CL
+Club Brügge,Raphael Onyedika,M,2.5,0.0,,,0.95,0.0,0.0,0.95,CL
+Club Brügge,Hans Vanaken,M,3.6,0.0,,,0.95,0.0,0.0,0.95,CL
+Club Brügge,Tajon Buchanan,A,2.0,0.0,,,0.95,0.0,0.0,0.95,CL
+Club Brügge,Kamal Sowah,A,2.4,0.0,,,0.95,0.0,0.0,0.95,CL
+Club Brügge,Noa Lang,A,2.9,0.0,,,0.95,0.0,0.0,0.95,CL
+Eintracht Frankfurt,Kevin Trapp,G,4.6,0.0,0.91,0.91,0.95,0.0,0.0,0.95,CL
+Eintracht Frankfurt,Lucas 'Tuta' Silva Melo,F,3.1,0.0,0.91,0.91,0.95,0.0,0.0,0.95,CL
+Eintracht Frankfurt,Evan N'Dicka,F,3.7,0.0,0.95,0.95,0.95,0.0,0.0,0.95,CL
+Eintracht Frankfurt,Philipp Max,F,4.0,0.0,0.14,0.14,,0.0,0.0,,CL
+Eintracht Frankfurt,Eric Junior Dina Ebimbe,M,2.1,0.0,0.36,0.5,0.95,0.0,0.0,0.95,CL
+Eintracht Frankfurt,Kristijan Jakic,M,2.5,0.0,0.64,0.82,0.95,0.0,0.0,0.95,CL
+Eintracht Frankfurt,Djibril Sow,M,2.6,0.0,0.86,0.95,0.95,0.0,0.0,0.95,CL
+Eintracht Frankfurt,Mario Götze,M,3.2,0.0,0.95,0.95,0.95,0.0,0.0,0.95,CL
+Eintracht Frankfurt,Jesper Lindstrøm,M,3.8,0.0,0.82,0.91,0.95,0.0,0.0,0.95,CL
+Eintracht Frankfurt,Daichi Kamada,M,4.0,0.0,0.73,0.86,0.95,0.0,0.0,0.95,CL
+Eintracht Frankfurt,Randal Kolo Muani,A,3.4,0.0,0.86,0.91,0.95,0.0,0.0,0.95,CL
+FC Porto,Diogo Costa,G,5.4,0.0,,,0.95,0.0,0.0,0.95,CL
+FC Porto,Fabio Cardoso,F,2.7,0.0,,,0.95,0.0,0.0,0.95,CL
+FC Porto,Pepe,F,3.0,0.0,,,0.95,0.0,0.0,0.95,CL
+FC Porto,Ivan Marcano,F,3.4,0.0,,,0.95,0.0,0.0,0.95,CL
+FC Porto,Zaidu Sanusi,F,4.0,0.0,,,0.95,0.0,0.0,0.95,CL
+FC Porto,Stephen Eustaquio,M,2.5,0.0,,,0.95,0.0,0.0,0.95,CL
+FC Porto,Marko Grujic,M,3.0,0.0,,,0.95,0.0,0.0,0.95,CL
+FC Porto,Otavio,M,4.3,0.0,,,0.95,0.0,0.0,0.95,CL
+FC Porto,Galeno,A,3.1,0.0,,,0.95,0.0,0.0,0.95,CL
+FC Porto,Evanilson,A,4.9,0.0,,,0.95,0.0,0.0,0.95,CL
+FC Porto,Mehdi Taremi,A,6.0,0.0,,,0.95,0.0,0.0,0.95,CL
+Internazionale,Andre Onana,G,5.1,0.0,0.58,0.58,0.95,0.0,0.0,0.95,CL
+Internazionale,Raoul Bellanova,F,2.5,16.0,0.0,0.42,0.95,0.0,0.0,0.95,CL
+Internazionale,Matteo Darmian,F,3.6,0.0,0.58,0.75,0.95,0.0,0.0,0.95,CL
+Internazionale,Stefan de Vrij,F,4.0,0.0,0.54,0.58,0.95,0.0,0.0,0.95,CL
+Internazionale,Francesco Acerbi,F,4.3,0.0,0.58,0.67,0.95,0.0,0.0,0.95,CL
+Internazionale,Robin Gosens,F,4.9,0.0,0.08,0.83,0.95,0.0,0.0,0.95,CL
+Internazionale,Kristjan Asllani,M,3.1,0.0,0.08,0.5,0.95,0.0,0.0,0.95,CL
+Internazionale,Roberto Gagliardini,M,3.5,0.0,0.12,0.46,0.95,0.0,0.0,0.95,CL
+Internazionale,Nicolo Barella,M,5.4,0.0,0.88,0.92,0.95,0.0,0.0,0.95,CL
+Internazionale,Joaquin Correa,A,4.2,0.0,0.17,0.71,0.95,0.0,0.0,0.95,CL
+Internazionale,Lautaro Martinez,A,7.9,0.0,0.83,0.96,0.95,0.0,0.0,0.95,CL
+Liverpool,Alisson Becker,G,6.1,1.0,0.96,0.96,0.95,0.0,0.0,0.95,CL
+Liverpool,Konstantinos Tsimikas,F,3.4,1.0,0.25,0.58,0.95,0.0,0.0,0.95,CL
+Liverpool,Ibrahima Konate,F,3.6,1.0,0.21,0.25,0.95,0.0,0.0,0.95,CL
+Liverpool,Virgil van Dijk,F,4.9,1.0,0.79,0.79,0.95,0.0,0.0,0.95,CL
+Liverpool,Trent Alexander-Arnold,F,5.5,1.0,0.83,0.96,0.95,0.0,0.0,0.95,CL
+Liverpool,Curtis Jones,M,3.0,0.0,0.04,0.25,0.95,0.0,0.0,0.95,CL
+Liverpool,James Milner,M,3.1,0.0,0.21,0.71,0.95,0.0,0.0,0.95,CL
+Liverpool,Thiago Alcantara,M,4.2,0.0,0.58,0.58,0.95,0.0,0.0,0.95,CL
+Liverpool,Fabinho,M,4.2,1.0,0.71,0.88,0.95,0.0,0.0,0.95,CL
+Liverpool,Roberto Firmino,A,5.0,0.0,0.46,0.67,0.95,0.0,0.0,0.95,CL
+Liverpool,Mohamed Salah,A,10.6,1.0,0.96,0.96,0.95,0.0,0.0,0.95,CL
+Manchester City,Stefan Ortega Moreno,G,5.1,0.0,,,0.95,0.0,0.0,0.95,CL
+Manchester City,Rico Lewis,F,2.7,0.0,0.2,0.36,0.95,0.0,0.0,0.95,CL
+Manchester City,Sergio Gomez Martin,F,3.8,0.0,0.0,0.2,0.95,0.0,0.0,0.95,CL
+Manchester City,Aymeric Laporte,F,4.2,0.0,0.24,0.28,0.95,0.0,0.0,0.95,CL
+Manchester City,Ruben Dias,F,5.1,0.0,0.48,0.64,0.95,0.0,0.0,0.95,CL
+Manchester City,Cole Palmer,M,2.6,0.0,0.0,0.36,0.95,0.0,0.0,0.95,CL
+Manchester City,Jack Grealish,M,4.3,0.0,0.56,0.72,0.95,0.0,0.0,0.95,CL
+Manchester City,Ilkay Gündogan,M,5.8,0.0,0.68,0.84,0.95,0.0,0.0,0.95,CL
+Manchester City,Phil Foden,M,5.8,0.0,0.56,0.84,0.95,0.0,0.0,0.95,CL
+Manchester City,Julian Alvarez,A,4.2,0.0,0.2,0.72,0.95,0.0,0.0,0.95,CL
+Manchester City,Riyad Mahrez,A,7.7,0.0,0.48,0.72,0.95,0.0,0.0,0.95,CL
+Napoli,Alex Meret,G,5.7,0.0,0.96,0.96,0.95,0.0,0.0,0.95,CL
+Napoli,Leo Østigard,F,2.7,7.0,0.08,0.17,0.95,0.0,0.0,0.95,CL
+Napoli,Mathias Olivera,F,2.9,0.0,0.25,0.71,0.95,0.0,0.0,0.95,CL
+Napoli,Min-jae Kim,F,3.5,0.0,0.92,0.92,0.95,0.0,0.0,0.95,CL
+Napoli,Giovanni Di Lorenzo,F,4.5,0.0,0.96,0.96,0.95,0.0,0.0,0.95,CL
+Napoli,Tanguy Ndombele,M,3.0,0.0,0.25,0.88,0.95,0.0,0.0,0.95,CL
+Napoli,André-Frank Zambo Anguissa,M,3.6,0.0,0.88,0.88,0.95,0.0,0.0,0.95,CL
+Napoli,Stanislav Lobotka,M,3.9,0.0,0.88,0.96,0.95,0.0,0.0,0.95,CL
+Napoli,Khvicha Kvaratskhelia,M,4.9,0.0,0.75,0.79,0.95,0.0,0.0,0.95,CL
+Napoli,Matteo Politano,A,4.4,0.0,0.46,0.83,0.95,0.0,0.0,0.95,CL
+Napoli,Victor Osimhen,A,5.9,0.0,0.75,0.79,0.95,0.0,0.0,0.95,CL
+Paris SG,Gianluigi Donnarumma,G,5.8,23.0,1.0,1.0,0.95,0.0,0.0,0.95,CL
+Paris SG,Nuno Mendes,F,3.3,0.0,0.43,0.61,0.95,0.0,0.0,0.95,CL
+Paris SG,Sergio Ramos,F,4.7,0.0,0.78,0.87,0.95,0.0,0.0,0.95,CL
+Paris SG,Marquinhos,F,4.7,8.0,0.87,0.96,0.95,0.0,0.0,0.95,CL
+Paris SG,Achraf Hakimi,F,5.4,0.0,0.7,0.91,0.95,0.0,0.0,0.95,CL
+Paris SG,Warren Zaire-Emery,M,2.5,1.0,0.09,0.48,0.95,0.0,0.0,0.95,CL
+Paris SG,Danilo Pereira,M,4.1,3.0,0.61,0.78,0.95,0.0,0.0,0.95,CL
+Paris SG,Marco Verratti,M,4.2,0.0,0.7,0.74,0.95,0.0,0.0,0.95,CL
+Paris SG,Carlos Soler,M,4.8,4.0,0.52,0.78,0.95,0.0,0.0,0.95,CL
+Paris SG,Neymar Jr.,A,8.6,1.0,0.74,0.83,0.95,0.0,0.0,0.95,CL
+Paris SG,Lionel Messi,A,9.5,0.0,0.78,0.78,0.95,0.0,0.0,0.95,CL
+RB Leipzig,Janis Blaswich,G,3.9,0.0,0.64,0.64,0.95,0.0,0.0,0.95,CL
+RB Leipzig,Mohamed Simakan,F,3.6,0.0,0.5,0.55,0.95,0.0,0.0,0.95,CL
+RB Leipzig,Josko Gvardiol,F,3.7,0.0,0.64,0.86,0.95,0.0,0.0,0.95,CL
+RB Leipzig,David Raum,F,3.8,0.0,0.68,0.91,0.95,0.0,0.0,0.95,CL
+RB Leipzig,Willi Orban,F,3.8,0.0,0.91,0.91,0.95,0.0,0.0,0.95,CL
+RB Leipzig,Xaver Schlager,M,2.2,0.0,0.68,0.77,0.95,0.0,0.0,0.95,CL
+RB Leipzig,Kevin Kampl,M,3.1,0.0,0.41,0.77,0.95,0.0,0.0,0.95,CL
+RB Leipzig,Dominik Szoboszlai,M,5.0,0.0,0.77,0.86,0.95,0.0,0.0,0.95,CL
+RB Leipzig,Christopher Nkunku,M,6.8,0.0,0.64,0.73,0.95,0.0,0.0,0.95,CL
+RB Leipzig,André Silva,A,6.2,0.0,0.68,0.95,0.95,0.0,0.0,0.95,CL
+RB Leipzig,Timo Werner,A,6.6,0.0,0.55,0.68,0.95,0.0,0.0,0.95,CL
+Real Madrid,Thibaut Courtois,G,6.6,0.0,0.7,0.7,0.95,0.0,0.0,0.95,CL
+Real Madrid,Ferland Mendy,F,4.2,0.0,0.61,0.61,0.95,0.0,0.0,0.95,CL
+Real Madrid,Daniel Carvajal,F,4.4,0.0,0.57,0.74,0.95,0.0,0.0,0.95,CL
+Real Madrid,Eder Militão,F,4.9,0.0,0.7,0.78,0.95,0.0,0.0,0.95,CL
+Real Madrid,David Alaba,F,5.9,0.0,0.74,0.83,0.95,0.0,0.0,0.95,CL
+Real Madrid,Federico Valverde,M,5.4,0.0,0.83,0.96,0.95,0.0,0.0,0.95,CL
+Real Madrid,Toni Kroos,M,5.4,0.0,0.61,0.74,0.95,0.0,0.0,0.95,CL
+Real Madrid,Luka Modric,M,5.6,0.0,0.61,0.91,0.95,0.0,0.0,0.95,CL
+Real Madrid,Marco Asensio,A,5.1,0.0,0.26,0.74,0.95,0.0,0.0,0.95,CL
+Real Madrid,Rodrygo,A,5.9,0.0,0.61,0.87,0.95,0.0,0.0,0.95,CL
+Real Madrid,Vinicius Junior,A,8.3,0.0,0.91,0.91,0.95,0.0,0.0,0.95,CL
+Tottenham,Fraser Forster,G,4.5,0.0,0.12,0.12,0.95,0.0,0.0,0.95,CL
+Tottenham,Cristian Romero,F,3.1,0.0,0.56,0.6,0.95,0.0,0.0,0.95,CL
+Tottenham,Clement Lenglet,F,3.4,0.0,0.48,0.56,0.95,0.0,0.0,0.95,CL
+Tottenham,Emerson Royal,F,3.7,0.0,0.6,0.76,0.95,0.0,0.0,0.95,CL
+Tottenham,Eric Dier,F,4.2,0.0,0.88,0.92,0.95,0.0,0.0,0.95,CL
+Tottenham,Oliver Skipp,M,2.0,0.0,0.16,0.36,0.95,0.0,0.0,0.95,CL
+Tottenham,Pape Sarr,M,2.5,5.0,0.04,0.2,0.95,0.0,0.0,0.95,CL
+Tottenham,Ivan Perisic,M,4.8,0.0,0.64,0.96,0.95,0.0,0.0,0.95,CL
+Tottenham,Dejan Kulusevski,M,5.5,0.0,0.56,0.64,0.95,0.0,0.0,0.95,CL
+Tottenham,Heung-Min Son,A,7.5,0.0,0.8,0.88,0.95,0.0,0.0,0.95,CL
+Tottenham,Harry Kane,A,8.4,0.0,0.96,0.96,0.95,0.0,0.0,0.95,CL
+AC Milan,Ciprian Tatarusanu,G,4.6,0.0,0.67,0.67,0.95,0.0,0.0,0.95,CLK
+AC Milan,Malick Thiaw,F,2.1,0.0,0.29,0.42,0.95,0.0,0.0,0.95,CLK
+AC Milan,Simon Kjær,F,3.1,0.0,0.33,0.46,0.95,0.0,0.0,0.95,CLK
+AC Milan,Pierre Kalulu,F,4.1,0.0,0.75,0.96,0.95,0.0,0.0,0.95,CLK
+AC Milan,Theo Hernandez,F,5.1,0.0,0.83,0.83,0.95,0.0,0.0,0.95,CLK
+AC Milan,Rade Krunic,M,3.0,0.0,0.38,0.5,0.95,0.0,0.0,0.95,CLK
+AC Milan,Sandro Tonali,M,4.0,0.0,0.75,0.83,0.95,0.0,0.0,0.95,CLK
+AC Milan,Alexis Saelemaekers,M,4.0,0.0,0.33,0.62,0.95,0.0,0.0,0.95,CLK
+AC Milan,Brahim Diaz,M,4.2,0.0,0.67,0.83,0.95,0.0,0.0,0.95,CLK
+AC Milan,Olivier Giroud,A,6.0,0.0,0.67,0.88,0.95,0.0,0.0,0.95,CLK
+AC Milan,Rafael Leão,A,6.6,0.0,0.75,0.92,0.95,0.0,0.0,0.95,CLK
+Bayern München,Yann Sommer,G,5.1,0.0,0.73,0.73,0.95,0.0,0.0,0.95,CLK
+Bayern München,Joao Cancelo,F,5.0,0.0,0.82,0.91,0.95,0.0,0.0,0.95,CLK
+Bayern München,Benjamin Pavard,F,5.1,0.0,0.73,0.82,0.95,0.0,0.0,0.95,CLK
+Bayern München,Matthijs de Ligt,F,5.1,0.0,0.64,0.82,0.95,0.0,0.0,0.95,CLK
+Bayern München,Dayot Upamecano,F,5.1,0.0,0.91,0.91,0.95,0.0,0.0,0.95,CLK
+Bayern München,Leon Goretzka,M,5.5,0.0,0.64,0.73,0.95,0.0,0.0,0.95,CLK
+Bayern München,Joshua Kimmich,M,5.6,0.0,0.86,0.91,0.95,0.0,0.0,0.95,CLK
+Bayern München,Kingsley Coman,A,5.7,0.0,0.32,0.64,0.95,0.0,0.0,0.95,CLK
+Bayern München,Eric Maxim Choupo-Moting,A,6.1,0.0,0.5,0.68,0.95,0.0,0.0,0.95,CLK
+Bayern München,Jamal Musiala,A,7.5,0.0,0.77,0.91,0.95,0.0,0.0,0.95,CLK
+Bayern München,Leroy Sane,A,7.5,0.0,0.59,0.86,0.95,0.0,0.0,0.95,CLK
+Benfica,Odysseas Vlachodimos,G,4.1,0.0,,,0.95,0.0,0.0,0.95,CLK
+Benfica,Nicolas Otamendi,F,3.1,0.0,,,0.95,0.0,0.0,0.95,CLK
+Benfica,Antonio Silva,F,3.1,0.0,,,0.95,0.0,0.0,0.95,CLK
+Benfica,Alexander Bah,F,3.1,0.0,,,0.95,0.0,0.0,0.95,CLK
+Benfica,Alejandro 'Alex' Grimaldo,F,4.6,0.0,,,0.95,0.0,0.0,0.95,CLK
+Benfica,Chiquinho,M,2.6,0.0,,,0.95,0.0,0.0,0.95,CLK
+Benfica,Fredrik Aursnes,M,2.6,0.0,,,0.95,0.0,0.0,0.95,CLK
+Benfica,Florentino Luis,M,3.1,0.0,,,0.95,0.0,0.0,0.95,CLK
+Benfica,Joao Mario,M,4.7,0.0,,,0.95,0.0,0.0,0.95,CLK
+Benfica,Rafa Silva,M,5.6,0.0,,,0.95,0.0,0.0,0.95,CLK
+Benfica,Goncalo Ramos,A,4.6,0.0,,,0.95,0.0,0.0,0.95,CLK
+Borussia Dortmund,Gregor Kobel,G,4.2,0.0,0.77,0.77,0.95,0.0,0.0,0.95,CLK
+Borussia Dortmund,Nico Schlotterbeck,F,3.1,0.0,0.95,0.95,0.95,0.0,0.0,0.95,CLK
+Borussia Dortmund,Niklas Süle,F,3.6,0.0,0.59,0.82,0.95,0.0,0.0,0.95,CLK
+Borussia Dortmund,Raphael Guerreiro,F,4.2,0.0,0.73,0.73,0.95,0.0,0.0,0.95,CLK
+Borussia Dortmund,Emre Can,M,3.0,0.0,0.36,0.68,0.95,0.0,0.0,0.95,CLK
+Borussia Dortmund,Salih Özcan,M,3.0,0.0,0.68,0.77,0.95,0.0,0.0,0.95,CLK
+Borussia Dortmund,Marius Wolf,M,3.0,0.0,0.36,0.64,0.95,0.0,0.0,0.95,CLK
+Borussia Dortmund,Julian Brandt,M,5.1,0.0,0.82,0.95,0.95,0.0,0.0,0.95,CLK
+Borussia Dortmund,Jude Bellingham,M,6.0,0.0,0.86,0.91,0.95,0.0,0.0,0.95,CLK
+Borussia Dortmund,Karim-David Adeyemi,A,5.2,0.0,0.55,0.73,0.95,0.0,0.0,0.95,CLK
+Borussia Dortmund,Sebastien Haller,A,6.5,0.0,0.09,0.27,0.95,0.0,0.0,0.95,CLK
+Chelsea,Kepa Arrizabalaga,G,4.5,0.0,0.62,0.62,0.95,0.0,0.0,0.95,CLK
+Chelsea,Thiago Silva,F,3.5,0.0,0.79,0.83,0.95,0.0,0.0,0.95,CLK
+Chelsea,Ben Chilwell,F,3.5,0.0,0.21,0.5,0.95,0.0,0.0,0.95,CLK
+Chelsea,Kalidou Koulibaly,F,4.0,0.0,0.54,0.62,0.95,0.0,0.0,0.95,CLK
+Chelsea,Reece James,F,4.5,0.0,0.38,0.42,0.95,0.0,0.0,0.95,CLK
+Chelsea,Ruben Loftus-Cheek,M,3.0,0.0,0.54,0.62,0.95,0.0,0.0,0.95,CLK
+Chelsea,Hakim Ziyech,M,4.0,0.0,0.21,0.5,0.95,0.0,0.0,0.95,CLK
+Chelsea,Mykhailo Mudryk,M,4.0,0.0,0.08,0.17,0.95,0.0,0.0,0.95,CLK
+Chelsea,Enzo Fernandez,M,4.0,0.0,0.12,0.12,0.95,0.0,0.0,0.95,CLK
+Chelsea,Kai Havertz,M,5.5,0.0,0.79,0.92,0.95,0.0,0.0,0.95,CLK
+Chelsea,Joao Felix,A,4.5,0.0,0.42,0.71,0.95,0.0,0.0,0.95,CLK
+Club Brügge,Simon Mignolet,G,3.5,0.0,,,0.95,0.0,0.0,0.95,CLK
+Club Brügge,Jack Hendry,F,2.0,0.0,,,0.95,0.0,0.0,0.95,CLK
+Club Brügge,Denis Odoi,F,2.5,0.0,,,0.95,0.0,0.0,0.95,CLK
+Club Brügge,Clinton Mata,F,2.5,0.0,,,0.95,0.0,0.0,0.95,CLK
+Club Brügge,Bjorn Meijer,F,3.0,0.0,,,0.95,0.0,0.0,0.95,CLK
+Club Brügge,Brandon Mechele,F,3.0,0.0,,,0.95,0.0,0.0,0.95,CLK
+Club Brügge,Raphael Onyedika,M,2.5,0.0,,,0.95,0.0,0.0,0.95,CLK
+Club Brügge,Hans Vanaken,M,3.0,0.0,,,0.95,0.0,0.0,0.95,CLK
+Club Brügge,Tajon Buchanan,A,2.0,0.0,,,0.95,0.0,0.0,0.95,CLK
+Club Brügge,Noa Lang,A,2.5,0.0,,,0.95,0.0,0.0,0.95,CLK
+Club Brügge,Kamal Sowah,A,3.0,0.0,,,0.95,0.0,0.0,0.95,CLK
+Eintracht Frankfurt,Kevin Trapp,G,3.6,0.0,0.91,0.91,0.95,0.0,0.0,0.95,CLK
+Eintracht Frankfurt,Lucas 'Tuta' Silva Melo,F,3.0,0.0,0.91,0.91,0.95,0.0,0.0,0.95,CLK
+Eintracht Frankfurt,Evan N'Dicka,F,3.5,0.0,0.95,0.95,0.95,0.0,0.0,0.95,CLK
+Eintracht Frankfurt,Philipp Max,F,4.0,0.0,0.14,0.14,,0.0,0.0,,CLK
+Eintracht Frankfurt,Kristijan Jakic,M,2.5,0.0,0.64,0.82,0.95,0.0,0.0,0.95,CLK
+Eintracht Frankfurt,Eric Junior Dina Ebimbe,M,2.5,0.0,0.36,0.5,0.95,0.0,0.0,0.95,CLK
+Eintracht Frankfurt,Mario Götze,M,3.0,0.0,0.95,0.95,0.95,0.0,0.0,0.95,CLK
+Eintracht Frankfurt,Djibril Sow,M,3.0,0.0,0.86,0.95,0.95,0.0,0.0,0.95,CLK
+Eintracht Frankfurt,Jesper Lindstrøm,M,4.0,0.0,0.82,0.91,0.95,0.0,0.0,0.95,CLK
+Eintracht Frankfurt,Daichi Kamada,M,4.0,0.0,0.73,0.86,0.95,0.0,0.0,0.95,CLK
+Eintracht Frankfurt,Randal Kolo Muani,A,5.4,0.0,0.86,0.91,0.95,0.0,0.0,0.95,CLK
+FC Porto,Diogo Costa,G,4.0,0.0,,,0.95,0.0,0.0,0.95,CLK
+FC Porto,Pepe,F,2.5,0.0,,,0.95,0.0,0.0,0.95,CLK
+FC Porto,Fabio Cardoso,F,2.5,0.0,,,0.95,0.0,0.0,0.95,CLK
+FC Porto,Ivan Marcano,F,3.0,0.0,,,0.95,0.0,0.0,0.95,CLK
+FC Porto,Zaidu Sanusi,F,3.5,0.0,,,0.95,0.0,0.0,0.95,CLK
+FC Porto,Marko Grujic,M,2.5,0.0,,,0.95,0.0,0.0,0.95,CLK
+FC Porto,Stephen Eustaquio,M,3.0,0.0,,,0.95,0.0,0.0,0.95,CLK
+FC Porto,Otavio,M,3.5,0.0,,,0.95,0.0,0.0,0.95,CLK
+FC Porto,Galeno,A,3.5,0.0,,,0.95,0.0,0.0,0.95,CLK
+FC Porto,Evanilson,A,4.5,0.0,,,0.95,0.0,0.0,0.95,CLK
+FC Porto,Mehdi Taremi,A,6.0,0.0,,,0.95,0.0,0.0,0.95,CLK
+Internazionale,Andre Onana,G,4.6,0.0,0.58,0.58,0.95,0.0,0.0,0.95,CLK
+Internazionale,Raoul Bellanova,F,2.5,16.0,0.0,0.42,0.95,0.0,0.0,0.95,CLK
+Internazionale,Stefan de Vrij,F,3.5,0.0,0.54,0.58,0.95,0.0,0.0,0.95,CLK
+Internazionale,Matteo Darmian,F,3.6,0.0,0.58,0.75,0.95,0.0,0.0,0.95,CLK
+Internazionale,Francesco Acerbi,F,4.1,0.0,0.58,0.67,0.95,0.0,0.0,0.95,CLK
+Internazionale,Robin Gosens,F,4.5,0.0,0.08,0.83,0.95,0.0,0.0,0.95,CLK
+Internazionale,Roberto Gagliardini,M,3.0,0.0,0.12,0.46,0.95,0.0,0.0,0.95,CLK
+Internazionale,Kristjan Asllani,M,3.0,0.0,0.08,0.5,0.95,0.0,0.0,0.95,CLK
+Internazionale,Nicolo Barella,M,5.0,0.0,0.88,0.92,0.95,0.0,0.0,0.95,CLK
+Internazionale,Joaquin Correa,A,4.5,0.0,0.17,0.71,0.95,0.0,0.0,0.95,CLK
+Internazionale,Lautaro Martinez,A,7.0,0.0,0.83,0.96,0.95,0.0,0.0,0.95,CLK
+Liverpool,Alisson Becker,G,4.5,1.0,0.96,0.96,0.95,0.0,0.0,0.95,CLK
+Liverpool,Ibrahima Konate,F,3.0,1.0,0.21,0.25,0.95,0.0,0.0,0.95,CLK
+Liverpool,Konstantinos Tsimikas,F,3.0,1.0,0.25,0.58,0.95,0.0,0.0,0.95,CLK
+Liverpool,Virgil van Dijk,F,4.5,1.0,0.79,0.79,0.95,0.0,0.0,0.95,CLK
+Liverpool,Trent Alexander-Arnold,F,5.0,1.0,0.83,0.96,0.95,0.0,0.0,0.95,CLK
+Liverpool,James Milner,M,2.5,0.0,0.21,0.71,0.95,0.0,0.0,0.95,CLK
+Liverpool,Curtis Jones,M,2.5,0.0,0.04,0.25,0.95,0.0,0.0,0.95,CLK
+Liverpool,Fabinho,M,4.0,1.0,0.71,0.88,0.95,0.0,0.0,0.95,CLK
+Liverpool,Thiago Alcantara,M,4.0,0.0,0.58,0.58,0.95,0.0,0.0,0.95,CLK
+Liverpool,Roberto Firmino,A,4.5,0.0,0.46,0.67,0.95,0.0,0.0,0.95,CLK
+Liverpool,Mohamed Salah,A,8.7,1.0,0.96,0.96,0.95,0.0,0.0,0.95,CLK
+Manchester City,Stefan Ortega Moreno,G,4.5,0.0,,,0.95,0.0,0.0,0.95,CLK
+Manchester City,Rico Lewis,F,3.0,0.0,0.2,0.36,0.95,0.0,0.0,0.95,CLK
+Manchester City,Aymeric Laporte,F,3.0,0.0,0.24,0.28,0.95,0.0,0.0,0.95,CLK
+Manchester City,Sergio Gomez Martin,F,3.5,0.0,0.0,0.2,0.95,0.0,0.0,0.95,CLK
+Manchester City,Ruben Dias,F,4.5,0.0,0.48,0.64,0.95,0.0,0.0,0.95,CLK
+Manchester City,Cole Palmer,M,2.5,0.0,0.0,0.36,0.95,0.0,0.0,0.95,CLK
+Manchester City,Jack Grealish,M,4.5,0.0,0.56,0.72,0.95,0.0,0.0,0.95,CLK
+Manchester City,Ilkay Gündogan,M,5.1,0.0,0.68,0.84,0.95,0.0,0.0,0.95,CLK
+Manchester City,Phil Foden,M,6.0,0.0,0.56,0.84,0.95,0.0,0.0,0.95,CLK
+Manchester City,Julian Alvarez,A,5.0,0.0,0.2,0.72,0.95,0.0,0.0,0.95,CLK
+Manchester City,Riyad Mahrez,A,7.2,0.0,0.48,0.72,0.95,0.0,0.0,0.95,CLK
+Napoli,Alex Meret,G,4.6,0.0,0.96,0.96,0.95,0.0,0.0,0.95,CLK
+Napoli,Leo Østigard,F,2.5,7.0,0.08,0.17,0.95,0.0,0.0,0.95,CLK
+Napoli,Mathias Olivera,F,3.1,0.0,0.25,0.71,0.95,0.0,0.0,0.95,CLK
+Napoli,Min-jae Kim,F,3.6,0.0,0.92,0.92,0.95,0.0,0.0,0.95,CLK
+Napoli,Giovanni Di Lorenzo,F,4.8,0.0,0.96,0.96,0.95,0.0,0.0,0.95,CLK
+Napoli,Tanguy Ndombele,M,3.0,0.0,0.25,0.88,0.95,0.0,0.0,0.95,CLK
+Napoli,André-Frank Zambo Anguissa,M,3.1,0.0,0.88,0.88,0.95,0.0,0.0,0.95,CLK
+Napoli,Stanislav Lobotka,M,3.6,0.0,0.88,0.96,0.95,0.0,0.0,0.95,CLK
+Napoli,Khvicha Kvaratskhelia,M,5.1,0.0,0.75,0.79,0.95,0.0,0.0,0.95,CLK
+Napoli,Matteo Politano,A,4.5,0.0,0.46,0.83,0.95,0.0,0.0,0.95,CLK
+Napoli,Victor Osimhen,A,8.2,0.0,0.75,0.79,0.95,0.0,0.0,0.95,CLK
+Paris SG,Gianluigi Donnarumma,G,4.5,23.0,1.0,1.0,0.95,0.0,0.0,0.95,CLK
+Paris SG,Nuno Mendes,F,3.5,0.0,0.43,0.61,0.95,0.0,0.0,0.95,CLK
+Paris SG,Sergio Ramos,F,4.5,0.0,0.78,0.87,0.95,0.0,0.0,0.95,CLK
+Paris SG,Marquinhos,F,4.5,8.0,0.87,0.96,0.95,0.0,0.0,0.95,CLK
+Paris SG,Achraf Hakimi,F,5.0,0.0,0.7,0.91,0.95,0.0,0.0,0.95,CLK
+Paris SG,Warren Zaire-Emery,M,2.5,1.0,0.09,0.48,0.95,0.0,0.0,0.95,CLK
+Paris SG,Danilo Pereira,M,4.0,3.0,0.61,0.78,0.95,0.0,0.0,0.95,CLK
+Paris SG,Marco Verratti,M,4.0,0.0,0.7,0.74,0.95,0.0,0.0,0.95,CLK
+Paris SG,Carlos Soler,M,4.5,4.0,0.52,0.78,0.95,0.0,0.0,0.95,CLK
+Paris SG,Neymar Jr.,A,8.0,1.0,0.74,0.83,0.95,0.0,0.0,0.95,CLK
+Paris SG,Lionel Messi,A,9.0,0.0,0.78,0.78,0.95,0.0,0.0,0.95,CLK
+RB Leipzig,Janis Blaswich,G,3.5,0.0,0.64,0.64,0.95,0.0,0.0,0.95,CLK
+RB Leipzig,David Raum,F,3.5,0.0,0.68,0.91,0.95,0.0,0.0,0.95,CLK
+RB Leipzig,Willi Orban,F,3.5,0.0,0.91,0.91,0.95,0.0,0.0,0.95,CLK
+RB Leipzig,Josko Gvardiol,F,3.7,0.0,0.64,0.86,0.95,0.0,0.0,0.95,CLK
+RB Leipzig,Mohamed Simakan,F,4.0,0.0,0.5,0.55,0.95,0.0,0.0,0.95,CLK
+RB Leipzig,Xaver Schlager,M,2.5,0.0,0.68,0.77,0.95,0.0,0.0,0.95,CLK
+RB Leipzig,Kevin Kampl,M,3.0,0.0,0.41,0.77,0.95,0.0,0.0,0.95,CLK
+RB Leipzig,Dominik Szoboszlai,M,4.5,0.0,0.77,0.86,0.95,0.0,0.0,0.95,CLK
+RB Leipzig,Christopher Nkunku,M,5.5,0.0,0.64,0.73,0.95,0.0,0.0,0.95,CLK
+RB Leipzig,André Silva,A,6.0,0.0,0.68,0.95,0.95,0.0,0.0,0.95,CLK
+RB Leipzig,Timo Werner,A,6.0,0.0,0.55,0.68,0.95,0.0,0.0,0.95,CLK
+Real Madrid,Thibaut Courtois,G,5.1,0.0,0.7,0.7,0.95,0.0,0.0,0.95,CLK
+Real Madrid,Daniel Carvajal,F,4.1,0.0,0.57,0.74,0.95,0.0,0.0,0.95,CLK
+Real Madrid,Ferland Mendy,F,4.5,0.0,0.61,0.61,0.95,0.0,0.0,0.95,CLK
+Real Madrid,Eder Militão,F,4.8,0.0,0.7,0.78,0.95,0.0,0.0,0.95,CLK
+Real Madrid,David Alaba,F,5.0,0.0,0.74,0.83,0.95,0.0,0.0,0.95,CLK
+Real Madrid,Toni Kroos,M,5.0,0.0,0.61,0.74,0.95,0.0,0.0,0.95,CLK
+Real Madrid,Luka Modric,M,5.1,0.0,0.61,0.91,0.95,0.0,0.0,0.95,CLK
+Real Madrid,Federico Valverde,M,5.6,0.0,0.83,0.96,0.95,0.0,0.0,0.95,CLK
+Real Madrid,Marco Asensio,A,5.5,0.0,0.26,0.74,0.95,0.0,0.0,0.95,CLK
+Real Madrid,Rodrygo,A,6.1,0.0,0.61,0.87,0.95,0.0,0.0,0.95,CLK
+Real Madrid,Vinicius Junior,A,7.9,0.0,0.91,0.91,0.95,0.0,0.0,0.95,CLK
+Tottenham,Fraser Forster,G,3.5,0.0,0.12,0.12,0.95,0.0,0.0,0.95,CLK
+Tottenham,Cristian Romero,F,3.5,0.0,0.56,0.6,0.95,0.0,0.0,0.95,CLK
+Tottenham,Clement Lenglet,F,3.5,0.0,0.48,0.56,0.95,0.0,0.0,0.95,CLK
+Tottenham,Emerson Royal,F,3.5,0.0,0.6,0.76,0.95,0.0,0.0,0.95,CLK
+Tottenham,Eric Dier,F,4.0,0.0,0.88,0.92,0.95,0.0,0.0,0.95,CLK
+Tottenham,Oliver Skipp,M,2.0,0.0,0.16,0.36,0.95,0.0,0.0,0.95,CLK
+Tottenham,Pape Sarr,M,2.0,5.0,0.04,0.2,0.95,0.0,0.0,0.95,CLK
+Tottenham,Ivan Perisic,M,4.5,0.0,0.64,0.96,0.95,0.0,0.0,0.95,CLK
+Tottenham,Dejan Kulusevski,M,5.0,0.0,0.56,0.64,0.95,0.0,0.0,0.95,CLK
+Tottenham,Heung-Min Son,A,7.0,0.0,0.8,0.88,0.95,0.0,0.0,0.95,CLK
+Tottenham,Harry Kane,A,8.0,0.0,0.96,0.96,0.95,0.0,0.0,0.95,CLK
+Almeria,Fernando C. Martinez,G,4.3,0.0,0.91,0.91,0.96,0.96,0.96,13.44,LL
+Almeria,Juan 'Chumi' Brandariz Movilla,F,2.2,0.0,0.3,0.52,0.63,0.54,0.54,7.65,LL
+Almeria,Rodrigo Ely,F,2.5,0.0,0.91,0.91,0.92,0.78,0.78,11.01,LL
+Almeria,Sergio Akieme,F,2.6,0.0,0.96,0.96,0.95,0.8,0.8,11.35,LL
+Almeria,Srdjan Babic,F,3.0,0.0,0.78,0.83,0.85,0.71,0.71,10.14,LL
+Almeria,Inigo Eguaras,M,2.5,0.0,0.3,0.7,0.67,0.51,0.51,7.25,LL
+Almeria,Cesar De La Hoz,M,2.5,0.0,0.43,0.52,0.78,0.67,0.67,9.47,LL
+Almeria,Lucas Robertone,M,3.3,0.0,0.87,0.91,0.92,0.78,0.78,11.01,LL
+Almeria,Leo Carrilho Baptistao,A,3.7,0.0,0.61,0.74,0.78,0.67,0.67,9.47,LL
+Almeria,Luis Suarez Charris,A,4.3,6.0,0.3,0.61,0.92,0.68,0.68,9.71,LL
+Almeria,El Bilal Toure,A,5.1,0.0,0.52,0.83,0.76,0.65,0.65,9.26,LL
+Athletic Bilbao,Julen Agirrezabala,G,5.0,0.0,0.04,0.04,0.52,0.52,0.52,7.32,LL
+Athletic Bilbao,Iñigo Martinez,F,3.5,0.0,0.39,0.39,0.68,0.48,0.48,6.89,LL
+Athletic Bilbao,Daniel Vivian,F,3.6,0.0,0.65,0.7,0.95,0.8,0.8,11.35,LL
+Athletic Bilbao,Yuri Berchiche,F,3.7,0.0,0.52,0.57,0.81,0.7,0.7,9.91,LL
+Athletic Bilbao,Oscar de Marcos,F,4.1,0.0,0.87,0.96,0.62,0.57,0.57,7.98,LL
+Athletic Bilbao,Mikel Vesga Arruti,M,3.9,0.0,0.74,0.91,0.81,0.7,0.7,9.91,LL
+Athletic Bilbao,Iker Muniain,M,4.7,0.0,0.61,0.83,0.71,0.62,0.62,8.75,LL
+Athletic Bilbao,Oihan Sancet,M,6.5,0.0,0.87,0.96,0.81,0.7,0.7,9.91,LL
+Athletic Bilbao,Alex Berenguer,A,5.5,0.0,0.7,0.91,0.59,0.53,0.53,7.48,LL
+Athletic Bilbao,Nico Williams,A,5.7,0.0,0.91,0.96,0.79,0.69,0.69,9.75,LL
+Athletic Bilbao,Iñaki Williams,A,7.1,0.0,0.83,0.87,0.9,0.75,0.75,10.67,LL
+Atletico Madrid,Jan Oblak,G,6.8,0.0,0.87,0.87,0.96,0.96,0.96,13.44,LL
+Atletico Madrid,Stefan Savic,F,3.6,0.0,0.61,0.61,0.92,0.76,0.76,10.82,LL
+Atletico Madrid,Mario Hermoso,F,4.1,0.0,0.35,0.43,0.92,0.78,0.78,11.01,LL
+Atletico Madrid,Jose Gimenez,F,4.9,0.0,0.52,0.57,0.85,0.71,0.71,10.14,LL
+Atletico Madrid,Pablo Barrios,M,2.2,0.0,0.17,0.3,0.78,0.78,0.78,10.97,LL
+Atletico Madrid,Koke,M,3.7,0.0,0.65,0.78,0.92,0.78,0.78,11.01,LL
+Atletico Madrid,Saul Niguez,M,3.9,0.0,0.26,0.78,0.6,0.42,0.42,6.03,LL
+Atletico Madrid,Marcos Llorente,M,4.2,0.0,0.61,0.65,0.9,0.75,0.75,10.61,LL
+Atletico Madrid,Yannick Ferreira-Carrasco,M,5.8,0.0,0.48,0.87,0.85,0.69,0.69,9.89,LL
+Atletico Madrid,Memphis Depay,A,6.8,0.0,0.09,0.26,0.67,0.47,0.47,6.81,LL
+Atletico Madrid,Antoine Griezmann,A,8.4,0.0,0.65,0.96,0.95,0.8,0.8,11.35,LL
+Betis,Claudio Bravo,G,4.6,0.0,0.17,0.17,0.65,0.65,0.65,9.14,LL
+Betis,Youssouf Sabaly,F,2.7,0.0,0.52,0.65,0.77,0.66,0.66,9.32,LL
+Betis,Juan Miranda,F,2.8,0.0,0.13,0.26,0.56,0.46,0.46,6.57,LL
+Betis,Luiz Felipe,F,3.1,0.0,0.48,0.52,0.92,0.76,0.76,10.81,LL
+Betis,German Pezzella,F,3.7,0.0,0.7,0.78,0.78,0.67,0.67,9.43,LL
+Betis,Guido Rodriguez,M,3.1,0.0,0.78,0.83,0.91,0.75,0.75,10.7,LL
+Betis,Rodri Sanchez,M,3.8,0.0,0.52,0.7,0.78,0.61,0.61,8.74,LL
+Betis,William Carvalho,M,4.1,0.0,0.78,0.83,0.92,0.76,0.76,10.81,LL
+Betis,Luiz Henrique,A,3.3,0.0,0.61,0.87,0.64,0.57,0.57,8.06,LL
+Betis,Ayoze Perez,A,3.7,0.0,0.17,0.48,0.71,0.6,0.6,8.48,LL
+Betis,Juanmi,A,5.9,0.0,0.3,0.48,0.83,0.68,0.68,9.64,LL
+Cadiz CF,Jeremias Ledesma,G,5.1,0.0,0.96,0.96,0.96,0.96,0.96,13.44,LL
+Cadiz CF,Fali,F,2.3,0.0,0.57,0.65,0.85,0.71,0.71,10.14,LL
+Cadiz CF,Isaac 'Iza' Carcelen,F,2.3,0.0,0.57,0.65,0.95,0.8,0.8,11.35,LL
+Cadiz CF,Luis Hernandez,F,2.8,0.0,0.87,0.87,0.95,0.8,0.8,11.35,LL
+Cadiz CF,Alfonso 'Pacha' Espino,F,3.3,0.0,0.87,0.91,0.95,0.8,0.8,11.35,LL
+Cadiz CF,Ruben Alcaraz Jimenez,M,2.8,0.0,0.52,0.74,0.92,0.78,0.78,11.01,LL
+Cadiz CF,Gonzalo Escalante,M,2.9,0.0,0.43,0.57,0.85,0.69,0.69,9.89,LL
+Cadiz CF,Theo Bongonda,M,3.4,0.0,0.48,0.65,0.85,0.71,0.71,10.14,LL
+Cadiz CF,Roger Marti Salvador,A,3.0,4.0,0.48,0.7,0.76,0.66,0.66,9.36,LL
+Cadiz CF,Ruben Sobrino,A,3.1,0.0,0.57,0.78,0.72,0.62,0.62,8.8,LL
+Cadiz CF,Sergi Guardiola,A,3.3,0.0,0.39,0.7,0.7,0.59,0.59,8.33,LL
+Celta de Vigo,Ivan Villar,G,3.2,0.0,0.13,0.13,0.81,0.81,0.81,11.32,LL
+Celta de Vigo,Hugo Mallo,F,2.7,0.0,0.65,0.65,0.62,0.55,0.55,7.79,LL
+Celta de Vigo,Unai Nunez,F,2.8,0.0,0.87,0.87,0.9,0.77,0.77,10.87,LL
+Celta de Vigo,Javier Galan,F,2.9,0.0,0.91,0.96,0.9,0.77,0.77,10.87,LL
+Celta de Vigo,Joseph Aidoo,F,3.5,0.0,0.96,0.96,0.95,0.8,0.8,11.35,LL
+Celta de Vigo,Luca de la Torre,M,2.3,0.0,0.22,0.57,0.71,0.62,0.62,8.75,LL
+Celta de Vigo,Fran Beltran,M,2.7,0.0,0.87,0.96,0.9,0.77,0.77,10.87,LL
+Celta de Vigo,Gabriel Veiga,M,4.1,0.0,0.61,0.91,0.95,0.8,0.8,11.35,LL
+Celta de Vigo,Carles Perez,A,3.2,0.0,0.48,0.91,0.81,0.68,0.68,9.71,LL
+Celta de Vigo,Haris Seferovic,A,4.2,0.0,0.0,0.13,0.71,0.71,0.71,9.97,LL
+Celta de Vigo,Iago Aspas,A,8.1,0.0,0.87,0.96,0.95,0.8,0.8,11.35,LL
+Elche CF,Edgar Badia,G,3.7,0.0,0.96,0.96,0.96,0.96,0.96,13.44,LL
+Elche CF,Diego Gonzalez Polanco,F,1.8,0.0,0.3,0.52,0.72,0.62,0.62,8.8,LL
+Elche CF,Helibelton Palacios,F,1.9,0.0,0.65,0.7,0.9,0.76,0.76,10.8,LL
+Elche CF,Gonzalo Verdu,F,1.9,0.0,0.26,0.43,0.75,0.56,0.56,8.03,LL
+Elche CF,Carlos Clerc Martinez,F,2.4,0.0,0.7,0.74,0.85,0.71,0.71,10.14,LL
+Elche CF,Jose Angel Carmona,F,3.1,0.0,0.43,0.65,0.9,0.75,0.75,10.61,LL
+Elche CF,Omar Mascarell,M,2.4,0.0,0.83,0.83,0.95,0.8,0.8,11.35,LL
+Elche CF,Gerard Gumbau,M,2.4,0.0,0.7,0.87,0.85,0.73,0.73,10.34,LL
+Elche CF,Ezequiel Ponce,A,2.6,0.0,0.3,0.91,0.78,0.65,0.65,9.21,LL
+Elche CF,Lucas Boye,A,3.1,0.0,0.7,0.87,0.92,0.78,0.78,11.01,LL
+Elche CF,Fidel Chaves,A,3.6,0.0,0.26,0.52,0.7,0.61,0.61,8.59,LL
+Espanyol,Fernando Pacheco,G,3.7,0.0,0.09,0.09,0.93,0.93,0.93,12.96,LL
+Espanyol,Leandro Cabrera,F,2.5,0.0,0.87,0.87,0.63,0.58,0.58,8.14,LL
+Espanyol,Cesar Montes,F,2.6,0.0,0.17,0.22,0.85,0.85,0.85,11.87,LL
+Espanyol,Oscar Gil,F,2.7,0.0,0.74,0.78,0.85,0.73,0.73,10.32,LL
+Espanyol,Brian Olivan,F,3.0,0.0,0.91,0.91,0.92,0.78,0.78,11.01,LL
+Espanyol,Vinicius Souza,M,2.6,0.0,0.87,0.87,0.92,0.76,0.76,10.81,LL
+Espanyol,Denis Suarez,M,3.1,0.0,0.04,0.13,0.78,0.58,0.58,8.31,LL
+Espanyol,Javier Puado,M,3.5,0.0,0.61,0.91,0.76,0.65,0.65,9.22,LL
+Espanyol,Sergi Darder Moll,M,4.5,0.0,0.96,0.96,0.95,0.8,0.8,11.35,LL
+Espanyol,Martin Braithwaite,A,4.8,0.0,0.74,0.74,0.92,0.78,0.78,11.01,LL
+Espanyol,Joselu Sanmartin,A,7.7,0.0,0.83,0.83,0.77,0.66,0.66,9.32,LL
+FC Barcelona,Marc-Andre ter Stegen,G,7.4,0.0,0.96,0.96,0.95,0.95,0.95,13.32,LL
+FC Barcelona,Sergi Roberto,F,4.5,0.0,0.26,0.57,0.71,0.6,0.6,8.49,LL
+FC Barcelona,Andreas Christensen,F,5.1,0.0,0.48,0.52,0.62,0.57,0.57,7.98,LL
+FC Barcelona,Ronald Araujo,F,5.5,0.0,0.48,0.48,0.81,0.68,0.68,9.71,LL
+FC Barcelona,Jules Kounde,F,5.6,0.0,0.61,0.65,0.79,0.69,0.69,9.75,LL
+FC Barcelona,Jordi Alba,F,6.0,0.0,0.39,0.65,0.68,0.54,0.54,7.75,LL
+FC Barcelona,Sergio Busquets,M,3.7,0.0,0.7,0.78,0.81,0.68,0.68,9.71,LL
+FC Barcelona,Frenkie de Jong,M,5.8,0.0,0.7,0.87,0.9,0.77,0.77,10.87,LL
+FC Barcelona,Ferran Torres,A,6.6,0.0,0.3,0.83,0.9,0.66,0.66,9.55,LL
+FC Barcelona,Raphinha,A,6.7,0.0,0.52,0.91,0.87,0.73,0.73,10.37,LL
+FC Barcelona,Ansu Fati,A,6.7,0.0,0.35,0.91,0.62,0.55,0.55,7.79,LL
+Getafe,David Soria,G,4.9,0.0,0.96,0.96,0.96,0.96,0.96,13.44,LL
+Getafe,Omar Alderete,F,2.2,0.0,0.39,0.43,0.92,0.78,0.78,11.01,LL
+Getafe,Djene,F,2.6,0.0,0.83,0.83,0.92,0.78,0.78,11.01,LL
+Getafe,Gaston Alvarez,F,3.0,0.0,0.3,0.52,0.78,0.65,0.65,9.21,LL
+Getafe,Domingos Duarte,F,3.1,23.0,0.91,0.91,0.92,0.86,0.86,12.05,LL
+Getafe,Mauro Arambarri,M,1.9,0.0,0.39,0.39,0.92,0.74,0.74,10.56,LL
+Getafe,Luis Milla,M,2.4,24.0,0.61,0.65,0.7,0.83,0.83,11.54,LL
+Getafe,Carles Alena,M,3.4,0.0,0.87,0.87,0.58,0.54,0.54,7.65,LL
+Getafe,Cristian 'Portu' Portugues,A,3.1,0.0,0.35,0.83,0.7,0.61,0.61,8.59,LL
+Getafe,Borja Mayoral,A,4.5,0.0,0.96,0.96,0.92,0.78,0.78,11.01,LL
+Getafe,Enes Ünal,A,6.6,0.0,0.96,0.96,0.95,0.8,0.8,11.35,LL
+Girona FC,Paulo Gazzaniga,G,4.0,0.0,0.52,0.52,0.93,0.93,0.93,12.97,LL
+Girona FC,Juanpe,F,2.0,0.0,0.39,0.43,0.78,0.61,0.61,8.78,LL
+Girona FC,Miguel Gutierrez,F,2.6,0.0,0.78,0.87,0.55,0.52,0.52,7.33,LL
+Girona FC,Santiago Bueno,F,2.7,0.0,0.91,0.91,0.95,0.8,0.8,11.35,LL
+Girona FC,Arnau Martinez,F,3.6,0.0,0.74,0.78,0.95,0.8,0.8,11.35,LL
+Girona FC,Borja Garcia,M,2.8,0.0,0.13,0.17,0.83,0.83,0.83,11.6,LL
+Girona FC,Oriol Romeu,M,3.1,0.0,0.83,0.83,0.95,0.8,0.8,11.35,LL
+Girona FC,Viktor Tsygankov,M,3.9,0.0,0.04,0.13,0.77,0.77,0.77,10.82,LL
+Girona FC,Aleix Garcia,M,4.0,0.0,0.96,0.96,0.95,0.8,0.8,11.35,LL
+Girona FC,Rodrigo Riquelme,M,4.5,0.0,0.65,0.91,0.85,0.71,0.71,10.14,LL
+Girona FC,Valentin Castellanos,A,4.8,0.0,0.87,0.91,0.92,0.76,0.76,10.82,LL
+Mallorca,Predrag Rajkovic,G,5.0,0.0,0.96,0.96,0.96,0.96,0.96,13.44,LL
+Mallorca,Matija Nastasic,F,2.1,0.0,0.26,0.39,0.53,0.47,0.47,6.66,LL
+Mallorca,Martin Valjent,F,3.1,0.0,0.78,0.78,0.72,0.62,0.62,8.8,LL
+Mallorca,Jaume Costa,F,3.2,0.0,0.78,0.78,0.92,0.78,0.78,11.01,LL
+Mallorca,Pablo Maffeo,F,3.4,0.0,0.83,0.87,0.92,0.78,0.78,11.01,LL
+Mallorca,Antonio Raillo,F,3.8,0.0,0.91,0.91,0.95,0.8,0.8,11.35,LL
+Mallorca,Inigo Ruiz de Galarreta,M,2.6,0.0,0.7,0.78,0.95,0.78,0.78,11.16,LL
+Mallorca,Dani Rodriguez,M,3.6,0.0,0.7,0.91,0.83,0.72,0.72,10.13,LL
+Mallorca,Kang-In Lee,M,4.1,0.0,0.83,0.91,0.92,0.76,0.76,10.82,LL
+Mallorca,Tino Kadewere,A,3.2,0.0,0.04,0.26,0.72,0.72,0.72,10.03,LL
+Mallorca,Vedat Muriqi,A,6.9,0.0,0.87,0.87,0.95,0.8,0.8,11.35,LL
+Osasuna,Aitor Fernandez Abarisketa,G,4.4,0.0,0.48,0.48,0.71,0.71,0.71,9.99,LL
+Osasuna,Aridane Hernandez,F,2.2,0.0,0.3,0.35,0.62,0.55,0.55,7.79,LL
+Osasuna,Juan Cruz,F,2.6,0.0,0.65,0.74,0.52,0.48,0.48,6.83,LL
+Osasuna,David Garcia Zubiria,F,3.8,0.0,0.83,0.83,0.9,0.77,0.77,10.87,LL
+Osasuna,Lucas Torro,M,2.5,0.0,0.91,0.91,0.79,0.69,0.69,9.75,LL
+Osasuna,Abde Ezzalzouli,M,2.7,0.0,0.39,0.65,0.7,0.61,0.61,8.6,LL
+Osasuna,Jon Moncayola,M,3.0,0.0,0.61,0.96,0.71,0.62,0.62,8.75,LL
+Osasuna,Moises Gomez Bordonado,M,4.6,0.0,0.96,0.96,0.79,0.69,0.69,9.75,LL
+Osasuna,Aimar Oroz,A,3.7,0.0,0.48,0.74,0.71,0.56,0.56,8.06,LL
+Osasuna,Ante Budimir,A,5.7,0.0,0.57,0.78,0.67,0.59,0.59,8.29,LL
+Osasuna,Ezequiel 'Chimy' Avila,A,6.3,0.0,0.74,0.83,0.79,0.67,0.67,9.56,LL
+Rayo Vallecano,Stole Dimitrievski,G,4.6,0.0,0.91,0.91,0.9,0.9,0.9,12.65,LL
+Rayo Vallecano,Abdul Mumin,F,2.0,0.0,0.09,0.17,0.71,0.71,0.71,9.97,LL
+Rayo Vallecano,Ivan Balliu,F,3.2,0.0,0.96,0.96,0.95,0.8,0.8,11.35,LL
+Rayo Vallecano,Fran Garcia,F,4.3,0.0,0.96,0.96,0.95,0.8,0.8,11.35,LL
+Rayo Vallecano,Florian Lejeune,F,4.5,29.0,0.87,0.87,0.95,0.86,0.86,12.13,LL
+Rayo Vallecano,Oscar Valentin,M,2.5,0.0,0.7,0.83,0.71,0.62,0.62,8.75,LL
+Rayo Vallecano,Santi Comesana,M,3.1,0.0,0.61,0.87,0.68,0.6,0.6,8.45,LL
+Rayo Vallecano,Alvaro Garcia,M,5.2,0.0,0.83,0.87,0.9,0.75,0.75,10.67,LL
+Rayo Vallecano,Oscar Trejo,A,3.7,0.0,0.78,0.87,0.7,0.62,0.62,8.79,LL
+Rayo Vallecano,Sergio Camello,A,4.6,0.0,0.83,0.96,0.62,0.57,0.57,7.98,LL
+Rayo Vallecano,Isaac 'Isi' Palazon,A,5.5,0.0,0.87,0.91,0.95,0.8,0.8,11.35,LL
+Real Madrid,Thibaut Courtois,G,6.7,0.0,0.7,0.7,0.96,0.96,0.96,13.43,LL
+Real Madrid,Daniel Carvajal,F,4.3,0.0,0.57,0.74,0.71,0.6,0.6,8.48,LL
+Real Madrid,Antonio Rüdiger,F,5.5,0.0,0.61,0.83,0.92,0.78,0.78,11.01,LL
+Real Madrid,Eder Militão,F,5.9,0.0,0.7,0.78,0.92,0.76,0.76,10.81,LL
+Real Madrid,Daniel Ceballos,M,3.2,0.0,0.39,0.65,0.78,0.68,0.68,9.63,LL
+Real Madrid,Eduardo Camavinga,M,3.9,0.0,0.48,0.96,0.63,0.56,0.56,7.95,LL
+Real Madrid,Aurelien Tchouameni,M,4.6,0.0,0.57,0.74,0.68,0.54,0.54,7.72,LL
+Real Madrid,Federico Valverde,M,7.4,0.0,0.83,0.96,0.78,0.68,0.68,9.63,LL
+Real Madrid,Rodrygo,A,7.9,0.0,0.61,0.87,0.68,0.6,0.6,8.42,LL
+Real Madrid,Vinicius Junior,A,9.4,0.0,0.91,0.91,0.95,0.8,0.8,11.35,LL
+Real Madrid,Karim Benzema,A,11.2,0.0,0.57,0.57,0.78,0.67,0.67,9.43,LL
+Real Sociedad,Alex Remiro,G,5.7,0.0,0.96,0.96,0.96,0.96,0.96,13.44,LL
+Real Sociedad,Diego Rico,F,3.4,0.0,0.57,0.65,0.78,0.68,0.68,9.67,LL
+Real Sociedad,Robin Le Normand,F,3.9,0.0,0.74,0.83,0.95,0.8,0.8,11.35,LL
+Real Sociedad,Igor Zubeldia,F,3.9,0.0,0.7,0.78,0.92,0.78,0.78,11.01,LL
+Real Sociedad,Martin Zubimendi,M,3.6,0.0,0.87,0.91,0.92,0.78,0.78,11.01,LL
+Real Sociedad,Mikel Merino,M,5.7,0.0,0.65,0.78,0.83,0.65,0.65,9.24,LL
+Real Sociedad,Brais Mendez,M,7.0,0.0,0.83,0.91,0.78,0.67,0.67,9.47,LL
+Real Sociedad,Ander Barrenetxea,A,2.7,0.0,0.17,0.39,0.55,0.51,0.51,7.13,LL
+Real Sociedad,Takefusa Kubo,A,5.6,0.0,0.74,0.83,0.92,0.78,0.78,11.01,LL
+Real Sociedad,Mikel Oyarzabal,A,6.6,0.0,0.13,0.35,0.85,0.69,0.69,9.89,LL
+Real Sociedad,Alexander Sørloth,A,6.9,0.0,0.78,0.83,0.92,0.95,0.95,13.27,LL
+Sevilla FC,Yassine 'Bono' Bounou,G,5.5,0.0,0.87,0.87,0.93,0.93,0.93,12.97,LL
+Sevilla FC,Jesus Navas,F,2.7,0.0,0.52,0.78,0.76,0.65,0.65,9.26,LL
+Sevilla FC,Tanguy Nianzou Kouassi,F,3.3,0.0,0.52,0.61,0.92,0.76,0.76,10.82,LL
+Sevilla FC,Alex Telles,F,3.5,0.0,0.35,0.61,0.75,0.56,0.56,8.03,LL
+Sevilla FC,Marcos Acuna,F,4.1,0.0,0.57,0.74,0.92,0.76,0.76,10.82,LL
+Sevilla FC,Pape Alassane Gueye,M,2.6,0.0,0.3,0.74,0.92,0.76,0.76,10.82,LL
+Sevilla FC,Bryan Gil,M,3.1,0.0,0.13,0.3,0.72,0.6,0.6,8.54,LL
+Sevilla FC,Nemanja Gudelj,M,3.3,0.0,0.78,0.83,0.92,0.76,0.76,10.82,LL
+Sevilla FC,Oliver Torres,M,4.8,0.0,0.87,0.87,0.83,0.72,0.72,10.13,LL
+Sevilla FC,Jesus Fernandez 'Suso' Saez,A,2.9,0.0,0.13,0.48,0.7,0.59,0.59,8.33,LL
+Sevilla FC,Youssef En-Nesyri,A,4.2,0.0,0.35,0.78,0.85,0.71,0.71,10.14,LL
+Valencia CF,Giorgi Mamardashvili,G,4.8,0.0,0.96,0.96,0.95,0.95,0.95,13.32,LL
+Valencia CF,Antonio 'Toni Lato' Latorre,F,2.5,0.0,0.22,0.65,0.68,0.58,0.58,8.19,LL
+Valencia CF,Eray Cömert,F,2.9,0.0,0.65,0.74,0.81,0.68,0.68,9.71,LL
+Valencia CF,Hugo Guillamon,F,3.5,0.0,0.61,0.78,0.71,0.6,0.6,8.49,LL
+Valencia CF,Thierry Correia,F,3.5,0.0,0.7,0.7,0.67,0.53,0.53,7.6,LL
+Valencia CF,Mouctar Diakhaby,F,3.5,0.0,0.65,0.65,0.81,0.68,0.68,9.71,LL
+Valencia CF,Yunus Musah,M,2.4,0.0,0.78,0.83,0.9,0.77,0.77,10.87,LL
+Valencia CF,Samuel Castillejo,M,4.1,0.0,0.57,0.7,0.62,0.55,0.55,7.79,LL
+Valencia CF,Andre Almeida,M,4.4,0.0,0.65,0.83,0.9,0.77,0.77,10.87,LL
+Valencia CF,Hugo Duro Perales,A,2.9,0.0,0.22,0.7,0.9,0.66,0.66,9.55,LL
+Valencia CF,Samuel Lino,A,4.5,0.0,0.96,0.96,0.9,0.77,0.77,10.87,LL
+Valladolid,Sergio Asenjo,G,3.4,0.0,0.22,0.22,0.96,0.96,0.96,13.43,LL
+Valladolid,Jawad El Yamiq,F,1.9,0.0,0.3,0.57,0.76,0.6,0.6,8.52,LL
+Valladolid,Luis Perez Maqueda,F,2.1,0.0,0.39,0.48,0.85,0.71,0.71,10.12,LL
+Valladolid,Lucas Olaza,F,2.1,0.0,0.48,0.61,0.57,0.52,0.52,7.37,LL
+Valladolid,Javi Sanchez,F,3.0,0.0,0.83,0.83,0.85,0.73,0.73,10.32,LL
+Valladolid,Ivan Sanchez,M,2.5,0.0,0.39,0.74,0.71,0.56,0.56,8.05,LL
+Valladolid,Ramon 'Monchu' Rodriguez,M,3.0,0.0,0.57,0.83,0.64,0.57,0.57,8.06,LL
+Valladolid,Oscar Plano,M,3.5,0.0,0.65,0.96,0.92,0.78,0.78,11.01,LL
+Valladolid,Roque Mesa,M,3.5,0.0,0.61,0.74,0.71,0.6,0.6,8.48,LL
+Valladolid,Gonzalo Plata,A,4.0,0.0,0.48,0.78,0.78,0.67,0.67,9.43,LL
+Valladolid,Cyle Christopher Larin,A,4.5,0.0,0.04,0.17,0.78,0.78,0.78,10.91,LL
+Villarreal,Jose 'Pepe' Reina,G,5.3,0.0,0.3,0.3,0.93,0.93,0.93,12.97,LL
+Villarreal,Alberto Moreno,F,3.1,0.0,0.35,0.48,0.71,0.61,0.61,8.69,LL
+Villarreal,Juan Foyth,F,3.2,0.0,0.39,0.48,0.85,0.71,0.71,10.14,LL
+Villarreal,Raul Albiol,F,4.0,0.0,0.83,0.83,0.83,0.7,0.7,9.93,LL
+Villarreal,Pau Torres,F,4.6,0.0,0.83,0.83,0.92,0.76,0.76,10.82,LL
+Villarreal,Ramon Terrats,M,2.1,0.0,0.09,0.39,0.67,0.67,0.67,9.44,LL
+Villarreal,Etienne Capoue,M,2.6,0.0,0.7,0.74,0.9,0.75,0.75,10.61,LL
+Villarreal,Samuel Chukwueze,M,4.2,0.0,0.52,0.91,0.92,0.78,0.78,11.01,LL
+Villarreal,Yeremi Pino,M,4.3,0.0,0.7,0.91,0.64,0.58,0.58,8.21,LL
+Villarreal,Daniel Parejo,M,4.8,0.0,0.96,0.96,0.95,0.8,0.8,11.35,LL
+Villarreal,Jose Luis Morales,A,6.4,10.0,0.26,0.91,0.74,0.66,0.66,9.31,LL
+Arsenal,Aaron Ramsdale,G,6.3,1.0,0.96,0.96,0.97,0.97,0.97,12.63,PL
+Arsenal,Oleksandr Zinchenko,F,4.8,1.0,0.64,0.68,0.94,0.79,0.79,10.41,PL
+Arsenal,Ben White,F,5.1,1.0,0.92,0.96,0.94,0.79,0.79,10.41,PL
+Arsenal,William Saliba,F,5.1,1.0,0.96,0.96,0.94,0.8,0.8,10.59,PL
+Arsenal,Gabriel Magalhaes,F,5.6,1.0,0.96,0.96,0.94,0.8,0.8,10.59,PL
+Arsenal,Thomas Teye Partey,M,4.8,0.0,0.72,0.76,0.8,0.68,0.68,8.97,PL
+Arsenal,Granit Xhaka,M,5.5,1.0,0.96,0.96,0.94,0.8,0.8,10.59,PL
+Arsenal,Leandro Trossard,M,6.0,1.0,0.72,0.88,0.8,0.8,0.8,10.4,PL
+Arsenal,Martin Ødegaard,M,8.1,1.0,0.92,0.92,0.94,0.8,0.8,10.59,PL
+Arsenal,Bukayo Saka,M,8.5,1.0,0.96,0.96,0.94,0.8,0.8,10.59,PL
+Arsenal,Gabriel Martinelli,A,7.7,1.0,0.92,0.96,0.9,0.9,0.9,11.7,PL
+Aston Villa,Emiliano Martinez,G,4.2,0.0,0.88,0.88,0.97,0.97,0.97,12.63,PL
+Aston Villa,Tyrone Mings,F,3.3,0.0,0.83,0.83,0.94,0.79,0.79,10.41,PL
+Aston Villa,Lucas Digne,F,3.6,0.0,0.62,0.71,0.82,0.69,0.69,9.14,PL
+Aston Villa,Matthew Cash,F,3.7,0.0,0.58,0.79,0.88,0.68,0.68,9.05,PL
+Aston Villa,Ezri Konsa Ngoyo,F,3.7,0.0,0.92,0.96,0.94,0.79,0.79,10.41,PL
+Aston Villa,Boubacar Kamara,M,2.7,0.0,0.67,0.71,0.94,0.79,0.79,10.41,PL
+Aston Villa,John McGinn,M,3.2,0.0,0.62,0.79,0.94,0.75,0.75,9.99,PL
+Aston Villa,Douglas Luiz,M,3.4,0.0,0.75,0.92,0.94,0.79,0.79,10.41,PL
+Aston Villa,Jacob Ramsey,M,3.6,0.0,0.67,0.83,0.89,0.74,0.74,9.79,PL
+Aston Villa,Emiliano Buendia,M,4.1,0.0,0.62,0.96,0.63,0.57,0.57,7.51,PL
+Aston Villa,Ollie Watkins,A,6.0,0.0,0.88,0.92,0.94,0.79,0.79,10.41,PL
+Bournemouth,Neto,G,3.7,0.0,0.54,0.54,0.97,0.97,0.97,12.63,PL
+Bournemouth,Jack Stephens,F,2.0,0.0,0.17,0.33,0.91,0.73,0.73,9.72,PL
+Bournemouth,Adam Smith,F,2.4,0.0,0.92,0.92,0.94,0.79,0.79,10.41,PL
+Bournemouth,Marcos Senesi,F,2.6,0.0,0.75,0.79,0.94,0.79,0.79,10.41,PL
+Bournemouth,Jordan Zemura,F,3.0,0.0,0.62,0.71,0.94,0.77,0.77,10.23,PL
+Bournemouth,Jefferson Lerma,M,2.6,0.0,0.96,0.96,0.94,0.79,0.79,10.41,PL
+Bournemouth,Dango Ouattara,M,3.1,0.0,0.92,0.92,0.91,0.77,0.77,10.14,PL
+Bournemouth,Philip Billing,M,3.4,0.0,0.83,0.92,0.94,0.79,0.79,10.41,PL
+Bournemouth,Hamed Junior Traore,M,3.5,0.0,0.38,0.58,0.91,0.77,0.77,10.14,PL
+Bournemouth,Jaidon Anthony,A,3.1,0.0,0.29,0.75,0.48,0.45,0.45,5.9,PL
+Bournemouth,Dominic Solanke,A,4.5,0.0,0.71,0.75,0.91,0.75,0.75,9.96,PL
+Brentford,David Raya,G,4.7,38.0,1.0,1.0,0.97,0.97,0.97,12.61,PL
+Brentford,Aaron Hickey,F,2.6,1.0,0.43,0.48,0.64,0.53,0.53,6.95,PL
+Brentford,Ethan Pinnock,F,3.0,15.0,0.65,0.65,0.93,0.95,0.95,12.31,PL
+Brentford,Rico Henry,F,3.4,4.0,0.96,0.96,0.93,0.86,0.86,11.23,PL
+Brentford,Ben Mee,F,3.7,11.0,0.96,0.96,0.93,0.95,0.95,12.31,PL
+Brentford,Mathias Jensen,M,3.1,26.0,1.0,1.0,0.93,0.95,0.95,12.31,PL
+Brentford,Josh Dasilva,M,3.5,1.0,0.52,1.0,0.64,0.57,0.57,7.49,PL
+Brentford,Christian Nørgaard,M,3.9,8.0,0.52,0.57,0.93,0.95,0.95,12.31,PL
+Brentford,Yoane Wissa,M,4.5,1.0,0.43,1.0,0.84,0.71,0.71,9.31,PL
+Brentford,Bryan Mbeumo,M,4.7,37.0,1.0,1.0,0.93,0.95,0.95,12.31,PL
+Brentford,Ivan Toney,A,6.8,5.0,0.91,0.91,0.93,0.86,0.86,11.23,PL
+Brighton and Hove,Robert Sanchez,G,4.5,48.0,1.0,1.0,0.97,0.97,0.0,1.94,PL
+Brighton and Hove,Adam Webster,F,3.0,2.0,0.68,0.77,0.91,0.83,0.0,10.03,PL
+Brighton and Hove,Lewis Dunk,F,3.3,35.0,1.0,1.0,0.94,0.95,0.0,11.37,PL
+Brighton and Hove,Joël Veltman,F,3.3,3.0,0.73,0.91,0.91,0.71,0.0,8.76,PL
+Brighton and Hove,Pervis Estupinan,F,3.5,11.0,0.73,0.86,0.86,0.94,0.0,11.21,PL
+Brighton and Hove,Moises Caicedo,M,2.8,2.0,0.91,0.95,0.94,0.85,0.0,10.28,PL
+Brighton and Hove,Kaoru Mitoma,M,3.4,8.0,0.45,0.77,0.94,0.95,0.0,11.37,PL
+Brighton and Hove,Alexis Mac Allister,M,3.6,2.0,0.82,0.86,0.94,0.85,0.0,10.28,PL
+Brighton and Hove,Solomon 'Solly' March,M,3.6,26.0,1.0,1.0,0.9,0.94,0.0,11.29,PL
+Brighton and Hove,Pascal Gross,M,4.4,25.0,1.0,1.0,0.94,0.95,0.0,11.37,PL
+Brighton and Hove,Evan Ferguson,A,2.7,1.0,0.14,0.32,0.85,0.85,0.0,10.18,PL
+Chelsea,Kepa Arrizabalaga,G,5.0,0.0,0.62,0.62,0.97,0.97,0.97,12.63,PL
+Chelsea,Wesley Fofana,F,2.4,0.0,0.17,0.21,0.63,0.44,0.44,5.89,PL
+Chelsea,Ben Chilwell,F,3.9,0.0,0.21,0.5,0.88,0.64,0.64,8.61,PL
+Chelsea,Benoit Badiashile,F,4.2,0.0,0.58,0.67,0.83,0.7,0.7,9.24,PL
+Chelsea,Reece James,F,4.6,0.0,0.38,0.42,0.91,0.72,0.72,9.6,PL
+Chelsea,Mateo Kovacic,M,3.4,0.0,0.33,0.67,0.48,0.42,0.42,5.54,PL
+Chelsea,Mykhailo Mudryk,M,4.5,0.0,0.08,0.17,0.63,0.63,0.63,8.15,PL
+Chelsea,Enzo Fernandez,M,4.5,0.0,0.12,0.12,0.91,0.91,0.91,11.78,PL
+Chelsea,Kai Havertz,M,7.0,0.0,0.79,0.92,0.88,0.75,0.75,9.87,PL
+Chelsea,Joao Felix,A,6.1,0.0,0.42,0.71,0.91,0.75,0.75,9.96,PL
+Chelsea,Raheem Sterling,A,8.2,0.0,0.58,0.71,0.74,0.61,0.61,8.06,PL
+Crystal Palace,Vicente Guaita,G,4.4,0.0,0.96,0.96,0.97,0.97,0.97,12.63,PL
+Crystal Palace,Tyrick Mitchell,F,2.5,0.0,0.79,0.88,0.91,0.75,0.75,9.96,PL
+Crystal Palace,Nathaniel Clyne,F,2.6,0.0,0.62,0.71,0.91,0.77,0.77,10.14,PL
+Crystal Palace,Marc Guehi,F,2.7,0.0,0.92,0.92,0.94,0.79,0.79,10.41,PL
+Crystal Palace,Joachim Andersen,F,3.0,0.0,0.75,0.75,0.94,0.77,0.77,10.23,PL
+Crystal Palace,Cheick Doucoure,M,2.5,0.0,0.88,0.88,0.94,0.79,0.79,10.41,PL
+Crystal Palace,Albert Sambi Lokonga,M,3.0,0.0,0.12,0.38,0.88,0.64,0.64,8.61,PL
+Crystal Palace,Michael Olise,M,3.9,0.0,0.67,0.92,0.94,0.79,0.79,10.41,PL
+Crystal Palace,Jordan Ayew,A,3.2,0.0,0.79,0.96,0.91,0.77,0.77,10.14,PL
+Crystal Palace,Jean-Philippe Mateta,A,3.6,0.0,0.21,0.79,0.77,0.63,0.63,8.34,PL
+Crystal Palace,Wilfried Zaha,A,5.5,0.0,0.79,0.79,0.63,0.56,0.56,7.33,PL
+Everton,Jordan Pickford,G,4.1,1.0,0.92,0.92,0.97,0.97,0.97,12.61,PL
+Everton,Michael Keane,F,2.4,1.0,0.04,0.08,0.53,0.4,0.4,5.32,PL
+Everton,Vitaliy Mykolenko,F,2.5,1.0,0.96,0.96,0.93,0.79,0.79,10.4,PL
+Everton,James Tarkowski,F,2.6,25.0,0.96,0.96,0.93,0.86,0.86,11.23,PL
+Everton,Seamus Coleman,F,2.8,1.0,0.52,0.64,0.87,0.73,0.73,9.61,PL
+Everton,Abdoulaye Doucoure,M,2.4,1.0,0.24,0.56,0.93,0.77,0.77,10.22,PL
+Everton,Idrissa Gana Gueye,M,2.5,1.0,0.72,0.76,0.93,0.79,0.79,10.4,PL
+Everton,Amadou Onana,M,3.0,1.0,0.8,0.88,0.9,0.77,0.77,10.1,PL
+Everton,Dwight McNeil,A,2.5,8.0,0.56,0.88,0.93,0.68,0.68,9.07,PL
+Everton,Alexander Iwobi,A,3.5,1.0,0.96,0.96,0.93,0.79,0.79,10.4,PL
+Everton,Neal Maupay,A,3.5,1.0,0.36,0.68,0.84,0.68,0.68,8.95,PL
+Fulham,Bernd Leno,G,4.8,0.0,0.88,0.88,0.97,0.97,0.0,1.94,PL
+Fulham,Issa Diop,F,2.9,0.0,0.52,0.64,0.93,0.77,0.0,9.44,PL
+Fulham,Kenny Tete,F,3.1,0.0,0.68,0.72,0.93,0.79,0.0,9.61,PL
+Fulham,Antonee Robinson,F,3.6,0.0,0.84,0.84,0.93,0.79,0.0,9.61,PL
+Fulham,Tim Ream,F,3.7,0.0,0.96,0.96,0.93,0.79,0.0,9.61,PL
+Fulham,Harrison Reed,M,3.3,0.0,0.92,0.92,0.93,0.79,0.0,9.61,PL
+Fulham,Sasa Lukic,M,3.5,0.0,0.52,0.68,0.64,0.54,0.0,6.59,PL
+Fulham,Willian,M,3.7,0.0,0.6,0.68,0.87,0.74,0.0,9.05,PL
+Fulham,Andreas Pereira,M,3.9,0.0,0.96,0.96,0.93,0.79,0.0,9.61,PL
+Fulham,Bobby De Cordova-Reid,A,3.9,0.0,0.92,0.92,0.9,0.77,0.0,9.33,PL
+Fulham,Aleksandar Mitrovic,A,6.5,0.0,0.76,0.76,0.9,0.75,0.0,9.16,PL
+Leeds United,Illan Meslier,G,3.8,0.0,0.96,0.96,0.97,0.97,0.97,12.63,PL
+Leeds United,Robin Koch,F,2.1,0.0,0.92,0.92,0.94,0.79,0.79,10.41,PL
+Leeds United,Junior Firpo,F,2.2,0.0,0.12,0.29,0.67,0.53,0.53,7.06,PL
+Leeds United,Luke Ayling,F,2.7,0.0,0.38,0.67,0.88,0.75,0.75,9.87,PL
+Leeds United,Liam Cooper,F,3.0,0.0,0.5,0.54,0.48,0.45,0.45,5.9,PL
+Leeds United,Weston McKennie,M,2.4,0.0,0.67,0.79,0.91,0.75,0.75,9.96,PL
+Leeds United,Marc Roca,M,2.5,0.0,0.79,0.83,0.78,0.67,0.67,8.8,PL
+Leeds United,Tyler Adams,M,3.0,0.0,0.88,0.88,0.94,0.79,0.79,10.41,PL
+Leeds United,Crysencio Summerville,A,2.6,0.0,0.29,0.67,0.86,0.69,0.69,9.15,PL
+Leeds United,Degnand Wilfried Gnonto,A,2.7,0.0,0.42,0.5,0.94,0.79,0.79,10.41,PL
+Leeds United,Georginio Rutter,A,4.0,0.0,0.46,0.79,0.58,0.41,0.41,5.45,PL
+Leicester City,Danny Ward,G,4.6,0.0,0.96,0.96,0.97,0.97,0.97,12.63,PL
+Leicester City,Victor Kristiansen,F,2.6,0.0,0.12,0.12,0.94,0.94,0.94,12.16,PL
+Leicester City,Wout Faes,F,2.8,0.0,0.83,0.83,0.94,0.79,0.79,10.41,PL
+Leicester City,Harry Souttar,F,3.0,0.0,0.12,0.12,0.94,0.94,0.94,12.16,PL
+Leicester City,Timothy Castagne,F,3.5,0.0,0.88,0.92,0.94,0.79,0.79,10.41,PL
+Leicester City,Wilfred Ndidi,M,2.4,0.0,0.42,0.62,0.63,0.54,0.54,7.09,PL
+Leicester City,Kiernan Dewsbury-Hall,M,3.2,0.0,0.83,0.88,0.91,0.75,0.75,9.96,PL
+Leicester City,Harvey Barnes,M,6.4,0.0,0.88,0.88,0.94,0.79,0.79,10.41,PL
+Leicester City,James Maddison,M,6.9,0.0,0.67,0.71,0.86,0.7,0.7,9.27,PL
+Leicester City,Kelechi Iheanacho,A,4.4,0.0,0.17,0.71,0.91,0.73,0.73,9.72,PL
+Leicester City,Tete,A,4.7,0.0,0.71,0.83,0.91,0.75,0.75,9.96,PL
+Liverpool,Alisson Becker,G,6.7,1.0,0.96,0.96,0.97,0.97,0.0,1.94,PL
+Liverpool,Ibrahima Konate,F,2.5,1.0,0.21,0.25,0.75,0.65,0.0,7.87,PL
+Liverpool,Stefan Bajcetic,F,3.0,1.0,0.21,0.33,0.86,0.72,0.0,8.79,PL
+Liverpool,Andy Robertson,F,5.4,0.0,0.71,0.83,0.93,0.77,0.0,9.44,PL
+Liverpool,Virgil van Dijk,F,5.8,1.0,0.79,0.79,0.93,0.95,0.0,11.38,PL
+Liverpool,Trent Alexander-Arnold,F,6.0,1.0,0.83,0.96,0.93,0.79,0.0,9.61,PL
+Liverpool,Jordan Henderson,M,4.7,0.0,0.5,0.83,0.87,0.73,0.0,8.88,PL
+Liverpool,Fabinho,M,5.1,1.0,0.71,0.88,0.86,0.72,0.0,8.79,PL
+Liverpool,Cody Gakpo,A,6.4,0.0,0.21,0.25,0.64,0.57,0.0,6.92,PL
+Liverpool,Darwin Nunez,A,7.5,1.0,0.58,0.75,0.84,0.71,0.0,8.61,PL
+Liverpool,Mohamed Salah,A,10.3,1.0,0.96,0.96,0.93,0.79,0.0,9.61,PL
+Manchester City,Ederson Moraes,G,6.6,0.0,0.96,0.96,0.97,0.97,0.0,1.94,PL
+Manchester City,Kyle Walker,F,4.2,0.0,0.52,0.56,0.67,0.4,0.0,5.07,PL
+Manchester City,Nathan Ake,F,4.5,0.0,0.56,0.72,0.86,0.4,0.0,5.26,PL
+Manchester City,Ruben Dias,F,5.2,0.0,0.48,0.64,0.91,0.8,0.0,9.71,PL
+Manchester City,Rodri Hernandez,M,5.8,0.0,0.92,0.92,0.94,0.92,0.0,11.06,PL
+Manchester City,Jack Grealish,M,6.0,0.0,0.56,0.72,0.67,0.85,0.0,10.02,PL
+Manchester City,Ilkay Gündogan,M,6.7,0.0,0.68,0.84,0.91,0.85,0.0,10.26,PL
+Manchester City,Bernardo Silva,M,6.8,0.0,0.76,0.92,0.8,0.9,0.0,10.7,PL
+Manchester City,Phil Foden,M,8.5,0.0,0.56,0.84,0.83,0.4,0.0,5.23,PL
+Manchester City,Kevin De Bruyne,M,8.7,0.0,0.84,0.92,0.86,0.85,0.0,10.21,PL
+Manchester City,Erling Håland,A,13.9,0.0,0.88,0.92,0.94,0.85,0.0,10.29,PL
+Manchester Utd,David de Gea,G,5.9,50.0,1.0,1.0,0.97,0.97,0.0,1.94,PL
+Manchester Utd,Tyrell Malacia,F,3.3,0.0,0.42,0.58,0.59,0.53,0.0,6.46,PL
+Manchester Utd,Lisandro Martinez,F,3.9,1.0,0.79,0.92,0.93,0.77,0.0,9.44,PL
+Manchester Utd,Aaron Wan-Bissaka,F,4.0,0.0,0.29,0.42,0.73,0.63,0.0,7.69,PL
+Manchester Utd,Raphaël Varane,F,4.2,0.0,0.62,0.71,0.87,0.73,0.0,8.88,PL
+Manchester Utd,Fred,M,4.0,4.0,0.38,0.88,0.81,0.67,0.0,8.13,PL
+Manchester Utd,Casemiro,M,5.5,0.0,0.54,0.75,0.93,0.77,0.0,9.44,PL
+Manchester Utd,Antony,M,5.7,0.0,0.46,0.5,0.82,0.69,0.0,8.42,PL
+Manchester Utd,Bruno Fernandes,M,7.7,11.0,0.96,0.96,0.93,0.95,0.0,11.37,PL
+Manchester Utd,Wout Weghorst,A,4.8,20.0,0.25,0.25,0.92,0.68,0.0,8.37,PL
+Manchester Utd,Marcus Rashford,A,7.9,8.0,0.92,1.0,0.93,0.86,0.0,10.38,PL
+Newcastle,Nick Pope,G,5.6,38.0,1.0,1.0,0.97,0.97,0.97,12.63,PL
+Newcastle,Sven Botman,F,3.9,16.0,0.87,0.91,0.94,0.95,0.95,12.32,PL
+Newcastle,Dan Burn,F,3.9,17.0,0.96,1.0,0.94,0.95,0.95,12.32,PL
+Newcastle,Kieran Trippier,F,4.4,24.0,1.0,1.0,0.94,0.95,0.95,12.32,PL
+Newcastle,Fabian Schär,F,4.4,18.0,0.96,0.96,0.94,0.95,0.95,12.32,PL
+Newcastle,Joe Willock,M,3.7,0.0,0.87,0.96,0.83,0.72,0.72,9.42,PL
+Newcastle,Sean Longstaff,M,3.7,16.0,0.83,1.0,0.94,0.95,0.95,12.32,PL
+Newcastle,Joelinton,M,4.3,9.0,0.87,0.91,0.94,0.95,0.95,12.32,PL
+Newcastle,Miguel Almiron,M,6.4,27.0,1.0,1.0,0.94,0.95,0.95,12.32,PL
+Newcastle,Allan Saint-Maximin,A,4.1,3.0,0.3,0.65,0.67,0.66,0.66,8.55,PL
+Newcastle,Alexander Isak,A,5.2,2.0,0.3,0.39,0.77,0.74,0.74,9.61,PL
+Nottingham Forest,Keylor Navas Gamboa,G,4.1,0.0,0.12,0.12,0.97,0.97,0.97,12.61,PL
+Nottingham Forest,Joe Worrall,F,2.6,0.0,0.54,0.75,0.93,0.77,0.77,10.22,PL
+Nottingham Forest,Neco Williams,F,2.6,0.0,0.54,0.92,0.93,0.69,0.69,9.18,PL
+Nottingham Forest,Renan Lodi,F,2.7,0.0,0.58,0.62,0.93,0.79,0.79,10.4,PL
+Nottingham Forest,Felipe,F,3.0,0.0,0.12,0.21,0.93,0.69,0.69,9.18,PL
+Nottingham Forest,Jonjo Shelvey,M,2.4,0.0,0.04,0.21,0.9,0.66,0.66,8.88,PL
+Nottingham Forest,Danilo dos Santos,M,2.5,0.0,0.08,0.12,0.53,0.53,0.53,6.86,PL
+Nottingham Forest,Remo Freuler,M,2.6,0.0,0.71,0.79,0.93,0.79,0.79,10.4,PL
+Nottingham Forest,Morgan Gibbs-White,M,2.9,0.0,0.88,0.92,0.9,0.77,0.77,10.1,PL
+Nottingham Forest,Chris Wood,A,4.0,0.0,0.29,0.92,0.8,0.68,0.68,9.01,PL
+Nottingham Forest,Brennan Johnson,A,4.2,0.0,0.88,0.96,0.9,0.77,0.77,10.1,PL
+Southampton,Gavin Bazunu,G,3.7,0.0,0.96,0.96,0.97,0.97,0.97,12.63,PL
+Southampton,Jan Bednarek,F,2.0,0.0,0.25,0.33,0.85,0.69,0.69,9.18,PL
+Southampton,Romain Perraud,F,2.4,0.0,0.62,0.88,0.94,0.77,0.77,10.23,PL
+Southampton,Armel Bella Kotchap,F,2.5,0.0,0.58,0.58,0.85,0.69,0.69,9.18,PL
+Southampton,Romeo Lavia,M,1.9,0.0,0.5,0.58,0.88,0.73,0.73,9.69,PL
+Southampton,Ainsley Maitland-Niles,M,2.0,0.0,0.29,0.5,0.67,0.57,0.57,7.54,PL
+Southampton,Stuart Armstrong,M,2.4,0.0,0.33,0.79,0.85,0.63,0.63,8.38,PL
+Southampton,James Ward-Prowse,M,4.6,0.0,0.96,0.96,0.82,0.71,0.71,9.32,PL
+Southampton,Mohamed Elyounoussi,A,2.5,0.0,0.75,0.88,0.85,0.71,0.71,9.42,PL
+Southampton,Kamaldeen Sulemana,A,3.0,0.0,0.17,0.71,0.85,0.66,0.66,8.78,PL
+Southampton,Paul Onuachu,A,4.0,0.0,0.08,0.12,0.88,0.88,0.88,11.41,PL
+Tottenham,Fraser Forster,G,4.8,0.0,0.12,0.12,0.97,0.97,0.97,12.63,PL
+Tottenham,Clement Lenglet,F,3.3,0.0,0.48,0.56,0.67,0.59,0.59,7.78,PL
+Tottenham,Cristian Romero,F,3.8,0.0,0.56,0.6,0.94,0.77,0.77,10.23,PL
+Tottenham,Emerson Royal,F,4.3,0.0,0.6,0.76,0.79,0.67,0.67,8.88,PL
+Tottenham,Ben T. Davies,F,4.4,0.0,0.68,0.84,0.91,0.75,0.75,9.96,PL
+Tottenham,Eric Dier,F,4.5,0.0,0.88,0.92,0.94,0.79,0.79,10.41,PL
+Tottenham,Oliver Skipp,M,2.8,0.0,0.16,0.36,0.91,0.69,0.69,9.24,PL
+Tottenham,Pierre-Emile Højbjerg,M,5.4,0.0,0.92,0.92,0.94,0.79,0.79,10.41,PL
+Tottenham,Dejan Kulusevski,M,6.8,0.0,0.56,0.64,0.88,0.73,0.73,9.69,PL
+Tottenham,Heung-Min Son,A,8.5,0.0,0.8,0.88,0.58,0.54,0.54,7.07,PL
+Tottenham,Harry Kane,A,10.7,0.0,0.96,0.96,0.94,0.79,0.79,10.41,PL
+West Ham,Alphonse Areola,G,3.5,0.0,0.0,0.08,0.7,0.7,0.0,1.39,PL
+West Ham,Angelo Ogbonna,F,2.2,0.0,0.25,0.33,0.91,0.75,0.0,9.21,PL
+West Ham,Ben Johnson,F,2.6,0.0,0.25,0.46,0.91,0.63,0.0,7.89,PL
+West Ham,Aaron Cresswell,F,3.0,0.0,0.71,0.75,0.67,0.57,0.0,6.97,PL
+West Ham,Nayef Aguerd,F,3.2,0.0,0.25,0.29,0.91,0.75,0.0,9.21,PL
+West Ham,Declan Rice,M,3.7,0.0,0.96,0.96,0.94,0.79,0.0,9.62,PL
+West Ham,Tomas Soucek,M,4.1,0.0,0.79,0.96,0.91,0.75,0.0,9.21,PL
+West Ham,Lucas Paqueta,M,4.4,0.0,0.67,0.71,0.91,0.77,0.0,9.37,PL
+West Ham,Said Benrahma,A,3.9,0.0,0.5,0.88,0.94,0.77,0.0,9.46,PL
+West Ham,Jarrod Bowen,A,5.5,0.0,0.96,0.96,0.94,0.79,0.0,9.62,PL
+West Ham,Danny Ings,A,5.6,0.0,0.33,0.92,0.94,0.65,0.0,8.14,PL
+Wolverhampton,Jose Sa,G,3.9,1.0,0.96,0.96,0.97,0.97,0.97,12.63,PL
+Wolverhampton,Nelson Semedo,F,2.7,1.0,0.68,0.88,0.94,0.79,0.79,10.41,PL
+Wolverhampton,Rayan Ait-Nouri,F,2.8,0.0,0.36,0.76,0.94,0.71,0.71,9.51,PL
+Wolverhampton,Max Kilman,F,3.2,1.0,0.96,0.96,0.94,0.79,0.79,10.41,PL
+Wolverhampton,Craig Dawson,F,3.3,1.0,0.48,0.48,0.94,0.77,0.77,10.23,PL
+Wolverhampton,Mario Lemina,M,2.5,1.0,0.6,0.76,0.91,0.75,0.75,9.96,PL
+Wolverhampton,Joao Moutinho,M,2.8,1.0,0.72,0.88,0.58,0.53,0.53,6.89,PL
+Wolverhampton,Matheus Nunes,M,3.2,1.0,0.76,0.84,0.91,0.77,0.77,10.14,PL
+Wolverhampton,Ruben Neves,M,3.8,1.0,0.92,0.92,0.94,0.79,0.79,10.41,PL
+Wolverhampton,Pablo Sarabia,M,4.2,1.0,0.28,0.76,0.91,0.75,0.75,9.96,PL
+Wolverhampton,Raul Jimenez,A,4.1,1.0,0.16,0.36,0.67,0.53,0.53,7.06,PL
+AC Milan,Mike Maignan,G,5.6,0.0,0.29,0.29,0.96,0.96,0.96,13.37,SA
+AC Milan,Malick Thiaw,F,2.7,0.0,0.29,0.42,0.9,0.7,0.7,9.99,SA
+AC Milan,Davide Calabria,F,4.7,0.0,0.54,0.58,0.78,0.67,0.67,9.45,SA
+AC Milan,Pierre Kalulu,F,4.9,0.0,0.75,0.96,0.9,0.77,0.77,10.88,SA
+AC Milan,Fikayo Tomori,F,5.2,0.0,0.79,0.83,0.82,0.7,0.7,9.89,SA
+AC Milan,Theo Hernandez,F,5.8,0.0,0.83,0.83,0.93,0.79,0.79,11.19,SA
+AC Milan,Charles De Ketelaere,M,4.1,0.0,0.25,0.79,0.78,0.58,0.58,8.32,SA
+AC Milan,Ismael Bennacer,M,4.5,0.0,0.67,0.79,0.83,0.7,0.7,9.92,SA
+AC Milan,Sandro Tonali,M,4.9,0.0,0.75,0.83,0.93,0.79,0.79,11.19,SA
+AC Milan,Ante Rebic,A,5.5,0.0,0.21,0.58,0.9,0.67,0.67,9.55,SA
+AC Milan,Olivier Giroud,A,7.0,0.0,0.67,0.88,0.84,0.72,0.72,10.25,SA
+Atalanta,Juan Musso,G,4.9,0.0,0.71,0.71,0.96,0.96,0.96,13.37,SA
+Atalanta,Berat Djimsiti,F,3.7,0.0,,,0.89,0.89,0.89,12.42,SA
+Atalanta,Jose Luis Palomino,F,3.7,0.0,0.21,0.29,0.61,0.55,0.55,7.75,SA
+Atalanta,Rafael Toloi,F,4.4,0.0,0.75,0.75,0.93,0.79,0.79,11.19,SA
+Atalanta,Davide Zappacosta,F,4.5,0.0,0.21,0.29,0.84,0.69,0.69,9.79,SA
+Atalanta,Joakim Mæhle,F,4.9,0.0,0.54,0.83,0.9,0.75,0.75,10.68,SA
+Atalanta,Jeremie Boga,M,3.7,0.0,0.17,0.54,0.57,0.52,0.52,7.29,SA
+Atalanta,Marten de Roon,M,3.7,0.0,0.79,0.83,0.93,0.79,0.79,11.19,SA
+Atalanta,Teun Koopmeiners,M,5.6,0.0,0.88,0.92,0.93,0.79,0.79,11.19,SA
+Atalanta,Rasmus Højlund,A,5.0,0.0,0.46,0.79,0.93,0.79,0.79,11.19,SA
+Atalanta,Ademola Lookman,A,7.5,0.0,0.71,0.92,0.93,0.79,0.79,11.19,SA
+Bologna,Lukasz Skorupski,G,4.6,0.0,0.96,0.96,0.96,0.96,0.96,13.37,SA
+Bologna,Adama Soumaoro,F,2.6,0.0,0.58,0.62,0.7,0.61,0.61,8.66,SA
+Bologna,Jhon Lucumi,F,2.8,0.0,0.79,0.79,0.93,0.79,0.79,11.19,SA
+Bologna,Andrea Cambiaso,F,2.8,0.0,0.62,0.88,0.84,0.71,0.71,10.05,SA
+Bologna,Stefan Posch,F,3.9,0.0,0.71,0.71,0.93,0.79,0.79,11.19,SA
+Bologna,Jerdy Schouten,M,2.3,0.0,0.62,0.79,0.84,0.71,0.71,10.05,SA
+Bologna,Nicolas Dominguez,M,3.1,0.0,0.71,0.83,0.9,0.75,0.75,10.68,SA
+Bologna,Roberto Soriano,M,3.9,0.0,0.5,0.88,0.86,0.72,0.72,10.21,SA
+Bologna,Lewis Ferguson,M,4.2,0.0,0.58,0.71,0.92,0.78,0.78,11.03,SA
+Bologna,Musa Barrow,A,3.8,0.0,0.46,0.71,0.6,0.48,0.48,6.88,SA
+Bologna,Riccardo Orsolini,A,4.5,0.0,0.58,0.83,0.93,0.79,0.79,11.19,SA
+Cremonese,Marco Carnesecchi,G,3.1,15.0,0.62,0.62,0.96,0.96,0.96,13.37,SA
+Cremonese,Vlad Chiriches,F,1.8,0.0,0.38,0.42,0.81,0.69,0.69,9.73,SA
+Cremonese,Johan Vasquez,F,1.9,1.0,0.33,0.5,0.9,0.75,0.75,10.68,SA
+Cremonese,Leonardo Sernicola,F,2.4,6.0,0.75,0.83,0.93,0.86,0.86,12.09,SA
+Cremonese,Matteo Bianchetti,F,2.4,2.0,0.62,0.71,0.84,0.78,0.78,11.03,SA
+Cremonese,Emanuele Valeri,F,3.2,2.0,0.83,0.96,0.93,0.88,0.88,12.36,SA
+Cremonese,Marco Benassi,M,2.0,5.0,0.25,0.33,0.93,0.68,0.68,9.75,SA
+Cremonese,Charles Pickel,M,2.4,4.0,0.83,0.92,0.77,0.84,0.84,11.71,SA
+Cremonese,Felix Afena-Gyan,A,2.0,1.0,0.17,0.62,0.49,0.41,0.41,5.82,SA
+Cremonese,Frank Tsadjout,A,2.7,3.0,0.21,0.42,0.9,0.83,0.83,11.66,SA
+Cremonese,David Okereke,A,4.2,2.0,0.79,0.92,0.93,0.85,0.85,11.97,SA
+Empoli,Guglielmo Vicario,G,3.9,0.0,0.96,0.96,0.96,0.96,0.96,13.37,SA
+Empoli,Ardian Ismajli,F,2.0,0.0,0.62,0.67,0.93,0.77,0.77,11.0,SA
+Empoli,Tyronne Ebuehi,F,2.4,0.0,0.42,0.58,0.84,0.71,0.71,10.05,SA
+Empoli,Sebastiano Luperto,F,2.9,0.0,0.88,0.88,0.93,0.79,0.79,11.19,SA
+Empoli,Fabiano Parisi,F,3.1,0.0,0.83,0.83,0.93,0.77,0.77,11.0,SA
+Empoli,Jean-Daniel Akpa Akpro,M,2.0,0.0,0.33,0.54,0.82,0.71,0.71,10.09,SA
+Empoli,Razvan Marin,M,3.0,0.0,0.71,0.92,0.93,0.79,0.79,11.19,SA
+Empoli,Filippo Bandinelli,M,3.1,0.0,0.79,0.96,0.9,0.75,0.75,10.68,SA
+Empoli,Martin Satriano,A,2.6,0.0,0.67,0.88,0.84,0.71,0.71,10.05,SA
+Empoli,Tommaso Baldanzi,A,2.9,0.0,0.5,0.58,0.93,0.79,0.79,11.19,SA
+Empoli,Francesco Caputo,A,4.0,0.0,0.88,0.96,0.69,0.62,0.62,8.71,SA
+Fiorentina,Pietro Terracciano,G,4.3,0.0,0.83,0.83,0.96,0.96,0.96,13.37,SA
+Fiorentina,Igor Julio,F,2.6,0.0,0.54,0.71,0.9,0.75,0.75,10.68,SA
+Fiorentina,Dodo,F,3.1,0.0,0.67,0.79,0.93,0.77,0.77,11.0,SA
+Fiorentina,Nikola Milenkovic,F,3.4,0.0,0.67,0.75,0.61,0.56,0.56,7.92,SA
+Fiorentina,Cristiano Biraghi,F,3.7,0.0,0.83,0.88,0.93,0.79,0.79,11.19,SA
+Fiorentina,Rolando Mandragora,M,2.6,0.0,0.46,0.67,0.61,0.46,0.46,6.62,SA
+Fiorentina,Sofyan Amrabat,M,3.0,0.0,0.67,0.83,0.93,0.77,0.77,11.0,SA
+Fiorentina,Riccardo Saponara,M,3.4,0.0,0.33,0.79,0.61,0.55,0.55,7.73,SA
+Fiorentina,Giacomo Bonaventura,M,4.1,0.0,0.71,0.83,0.93,0.77,0.77,11.0,SA
+Fiorentina,Nicolas Gonzalez,M,5.5,0.0,0.25,0.54,0.9,0.75,0.75,10.68,SA
+Fiorentina,Arthur Cabral,A,5.5,0.0,0.25,0.75,0.82,0.64,0.64,9.2,SA
+Hellas Verona,Lorenzo Montipo,G,3.5,0.0,0.96,0.96,0.96,0.96,0.96,13.37,SA
+Hellas Verona,Marco Davide Faraoni,F,1.9,0.0,0.29,0.38,0.5,0.35,0.35,5.0,SA
+Hellas Verona,Diego Coppola,F,2.1,0.0,0.33,0.42,0.5,0.42,0.42,5.96,SA
+Hellas Verona,Isak Hien,F,2.2,0.0,0.67,0.83,0.93,0.79,0.79,11.19,SA
+Hellas Verona,Josh Doig,F,2.9,0.0,0.5,0.67,0.92,0.78,0.78,11.03,SA
+Hellas Verona,Fabio Depaoli,F,3.0,0.0,0.67,0.88,0.6,0.55,0.55,7.76,SA
+Hellas Verona,Ondrej Duda,M,2.5,0.0,0.5,0.71,0.9,0.73,0.73,10.42,SA
+Hellas Verona,Adrien Tameze,M,2.6,0.0,0.83,0.92,0.93,0.79,0.79,11.19,SA
+Hellas Verona,Darko Lazovic,M,3.3,0.0,0.75,0.79,0.93,0.79,0.79,11.19,SA
+Hellas Verona,Adolfo Gaich,A,2.5,0.0,0.08,0.12,0.67,0.67,0.67,9.41,SA
+Hellas Verona,Cyril Ngonge,A,2.8,0.0,0.12,0.17,0.84,0.84,0.84,11.77,SA
+Internazionale,Andre Onana,G,5.6,0.0,0.58,0.58,0.96,0.96,0.96,13.37,SA
+Internazionale,Francesco Acerbi,F,3.9,0.0,0.58,0.67,0.89,0.76,0.76,10.72,SA
+Internazionale,Matteo Darmian,F,4.6,0.0,0.58,0.75,0.84,0.72,0.72,10.25,SA
+Internazionale,Alessandro Bastoni,F,4.9,0.0,0.67,0.75,0.93,0.79,0.79,11.19,SA
+Internazionale,Robin Gosens,F,5.7,0.0,0.08,0.83,0.82,0.61,0.61,8.77,SA
+Internazionale,Marcelo Brozovic,M,4.5,0.0,0.33,0.54,0.63,0.47,0.47,6.79,SA
+Internazionale,Denzel Dumfries,M,5.5,0.0,0.62,0.83,0.81,0.64,0.64,9.08,SA
+Internazionale,Hakan Calhanoglu,M,6.3,0.0,0.83,0.92,0.92,0.78,0.78,11.03,SA
+Internazionale,Nicolo Barella,M,7.1,0.0,0.88,0.92,0.93,0.77,0.77,11.0,SA
+Internazionale,Romelu Lukaku,A,7.3,0.0,0.25,0.46,0.61,0.53,0.53,7.47,SA
+Internazionale,Lautaro Martinez,A,9.6,0.0,0.83,0.96,0.9,0.75,0.75,10.68,SA
+Juventus,Wojciech Szczesny,G,6.1,1.0,0.71,0.71,0.92,0.92,0.92,12.93,SA
+Juventus,Bremer,F,4.0,1.0,0.83,0.83,0.93,0.79,0.79,11.19,SA
+Juventus,Mattia De Sciglio,F,4.3,0.0,0.29,0.54,0.74,0.62,0.62,8.76,SA
+Juventus,Alex Sandro,F,4.4,4.0,0.67,0.83,0.69,0.83,0.83,11.53,SA
+Juventus,Danilo,F,6.1,18.0,0.96,1.0,0.93,0.95,0.95,13.26,SA
+Juventus,Nicolo Fagioli,M,3.9,1.0,0.29,0.62,0.67,0.59,0.59,8.35,SA
+Juventus,Manuel Locatelli,M,4.7,0.0,0.79,0.83,0.93,0.79,0.79,11.19,SA
+Juventus,Adrien Rabiot,M,6.1,8.0,0.79,0.83,0.93,0.86,0.86,12.09,SA
+Juventus,Filip Kostic,M,6.5,20.0,0.96,1.04,0.9,0.95,0.95,13.19,SA
+Juventus,Angel Di Maria,M,7.3,1.0,0.42,0.62,0.72,0.64,0.64,9.03,SA
+Juventus,Dusan Vlahovic,A,9.0,4.0,0.58,0.62,0.86,0.67,0.67,9.57,SA
+Lazio,Ivan Provedel,G,5.7,0.0,0.92,0.96,0.96,0.96,0.96,13.37,SA
+Lazio,Patricio 'Patric' Gabarron Gil,F,3.2,0.0,0.42,0.5,0.67,0.5,0.5,7.23,SA
+Lazio,Elseid Hysaj,F,3.4,0.0,0.38,0.79,0.83,0.7,0.7,9.93,SA
+Lazio,Alessio Romagnoli,F,4.7,0.0,0.83,0.88,0.9,0.77,0.77,10.88,SA
+Lazio,Adam Marusic,F,5.0,0.0,0.92,0.96,0.92,0.78,0.78,11.03,SA
+Lazio,Danilo Cataldi,M,3.3,0.0,0.83,0.88,0.61,0.56,0.56,7.93,SA
+Lazio,Luis Alberto,M,5.7,0.0,0.5,0.83,0.86,0.73,0.73,10.4,SA
+Lazio,Felipe Anderson,M,5.7,0.0,0.88,0.96,0.93,0.77,0.77,11.0,SA
+Lazio,Mattia Zaccagni,M,6.2,0.0,0.83,0.83,0.9,0.77,0.77,10.88,SA
+Lazio,Sergej Milinkovic-Savic,M,7.4,0.0,0.83,0.88,0.93,0.79,0.79,11.19,SA
+Lazio,Ciro Immobile,A,9.0,0.0,0.67,0.75,0.93,0.77,0.77,11.0,SA
+Lecce,Wladimiro Falcone,G,3.9,0.0,0.96,0.96,0.96,0.96,0.96,13.37,SA
+Lecce,Alessandro Tuia,F,2.0,0.0,0.12,0.17,0.9,0.9,0.9,12.64,SA
+Lecce,Samuel Umtiti,F,2.7,0.0,0.46,0.5,0.92,0.78,0.78,11.03,SA
+Lecce,Antonino Gallo,F,3.2,0.0,0.67,0.79,0.9,0.75,0.75,10.68,SA
+Lecce,Valentin Gendrey,F,3.3,0.0,0.88,0.96,0.93,0.79,0.79,11.19,SA
+Lecce,Youssef Maleh,M,2.5,0.0,0.29,0.54,0.84,0.69,0.69,9.79,SA
+Lecce,Alexis Blin,M,2.8,0.0,0.58,0.88,0.72,0.64,0.64,9.03,SA
+Lecce,Morten Hjulmand,M,3.2,0.0,0.88,0.88,0.93,0.79,0.79,11.19,SA
+Lecce,Federico Di Francesco,M,3.3,0.0,0.58,0.96,0.92,0.76,0.76,10.84,SA
+Lecce,Gabriel Strefezza,M,5.1,0.0,0.75,0.88,0.93,0.79,0.79,11.19,SA
+Lecce,Assan Ceesay,A,3.7,0.0,0.46,0.79,0.58,0.44,0.44,6.29,SA
+Monza,Michele Di Gregorio,G,4.0,0.0,0.96,0.96,0.89,0.89,0.89,12.5,SA
+Monza,Samuele Birindelli,F,2.6,0.0,0.46,0.83,0.77,0.66,0.66,9.29,SA
+Monza,Armando Izzo,F,2.7,0.0,0.62,0.67,0.92,0.78,0.78,11.03,SA
+Monza,Pablo Mari,F,2.8,0.0,0.58,0.67,0.9,0.75,0.75,10.68,SA
+Monza,Marlon Santos,F,3.2,0.0,0.62,0.79,0.86,0.72,0.72,10.21,SA
+Monza,Stefano Sensi,M,2.5,0.0,0.54,0.67,0.92,0.68,0.68,9.71,SA
+Monza,Carlos Augusto,M,3.4,0.0,0.83,0.83,0.93,0.77,0.77,11.0,SA
+Monza,Matteo Pessina,M,3.9,0.0,0.83,0.88,0.72,0.64,0.64,9.03,SA
+Monza,Andrea Petagna,A,4.0,0.0,0.5,0.75,0.61,0.55,0.55,7.73,SA
+Monza,Patrick Ciurria,A,4.2,0.0,0.67,0.88,0.93,0.79,0.79,11.19,SA
+Monza,Gianluca Caprari,A,5.6,0.0,0.83,0.96,0.9,0.77,0.77,10.88,SA
+Napoli,Alex Meret,G,6.5,0.0,0.96,0.96,0.96,0.96,0.96,13.37,SA
+Napoli,Mathias Olivera,F,3.3,0.0,0.25,0.71,0.93,0.72,0.72,10.3,SA
+Napoli,Min-jae Kim,F,4.7,0.0,0.92,0.92,0.93,0.79,0.79,11.19,SA
+Napoli,Amir Rrahmani,F,5.0,0.0,0.62,0.67,0.92,0.78,0.78,11.03,SA
+Napoli,Giovanni Di Lorenzo,F,6.6,0.0,0.96,0.96,0.93,0.79,0.79,11.19,SA
+Napoli,Stanislav Lobotka,M,4.0,0.0,0.88,0.96,0.93,0.79,0.79,11.19,SA
+Napoli,André-Frank Zambo Anguissa,M,5.0,0.0,0.88,0.88,0.9,0.77,0.77,10.88,SA
+Napoli,Piotr Zielinski,M,6.0,0.0,0.71,0.96,0.63,0.56,0.56,7.89,SA
+Napoli,Khvicha Kvaratskhelia,M,7.4,0.0,0.75,0.79,0.93,0.79,0.79,11.19,SA
+Napoli,Hirving Lozano,A,6.4,0.0,0.5,0.92,0.63,0.56,0.56,7.89,SA
+Napoli,Victor Osimhen,A,9.9,0.0,0.75,0.79,0.93,0.79,0.79,11.19,SA
+Roma,Rui Patricio,G,5.7,50.0,1.0,1.0,0.96,0.96,0.96,13.37,SA
+Roma,Leonardo Spinazzola,F,3.3,2.0,0.46,0.62,0.9,0.83,0.83,11.66,SA
+Roma,Gianluca Mancini,F,4.1,25.0,1.0,1.0,0.93,0.95,0.95,13.26,SA
+Roma,Roger Ibanez,F,4.1,6.0,0.96,0.96,0.93,0.86,0.86,12.09,SA
+Roma,Chris Smalling,F,4.5,0.0,0.92,0.96,0.93,0.79,0.79,11.19,SA
+Roma,Nemanja Matic,M,3.2,0.0,0.46,0.96,0.63,0.56,0.56,7.89,SA
+Roma,Bryan Cristante,M,3.3,24.0,1.0,1.0,0.93,0.95,0.95,13.26,SA
+Roma,Lorenzo Pellegrini,M,5.9,1.0,0.83,0.83,0.93,0.79,0.79,11.19,SA
+Roma,Nicola Zalewski,A,3.2,1.0,0.58,0.83,0.63,0.57,0.57,8.08,SA
+Roma,Tammy Abraham,A,7.3,0.0,0.79,1.0,0.84,0.72,0.72,10.25,SA
+Roma,Paulo Dybala,A,7.4,1.0,0.67,0.71,0.93,0.79,0.79,11.19,SA
+Salernitana,Guillermo Ochoa,G,3.3,0.0,0.25,0.25,0.91,0.91,0.91,12.71,SA
+Salernitana,Lorenzo Pirola,F,1.9,0.0,0.33,0.46,0.9,0.75,0.75,10.68,SA
+Salernitana,Junior Sambia,F,2.0,0.0,0.12,0.5,0.55,0.49,0.49,6.87,SA
+Salernitana,Domagoj Bradaric,F,2.4,0.0,0.5,0.75,0.84,0.72,0.72,10.25,SA
+Salernitana,Flavius Daniliuc,F,2.5,0.0,0.54,0.67,0.59,0.51,0.51,7.21,SA
+Salernitana,Norbert Gyömber,F,2.6,0.0,0.46,0.62,0.84,0.62,0.62,8.96,SA
+Salernitana,Domen Crnigoj,M,2.5,3.0,0.08,0.17,0.9,0.71,0.71,10.18,SA
+Salernitana,Lassana Coulibaly,M,2.6,0.0,0.83,0.88,0.93,0.77,0.77,11.0,SA
+Salernitana,Antonio Candreva,M,4.7,0.0,0.83,0.92,0.93,0.79,0.79,11.19,SA
+Salernitana,Krzysztof Piatek,A,3.6,0.0,0.58,0.79,0.93,0.77,0.77,11.0,SA
+Salernitana,Boulaye Dia,A,4.8,0.0,0.71,0.88,0.61,0.56,0.56,7.92,SA
+Sampdoria,Emil Audero,G,3.3,0.0,0.96,0.96,0.96,0.96,0.96,13.37,SA
+Sampdoria,Bruno Amione,F,2.0,0.0,0.54,0.54,0.93,0.79,0.79,11.19,SA
+Sampdoria,Bram Nuytinck,F,2.4,0.0,0.46,0.58,0.93,0.79,0.79,11.19,SA
+Sampdoria,Alessandro Zanoli,F,2.5,0.0,0.04,0.33,0.61,0.46,0.46,6.6,SA
+Sampdoria,Tommaso Augello,F,2.7,0.0,0.83,0.92,0.92,0.78,0.78,11.03,SA
+Sampdoria,Mehdi Leris,M,1.8,0.0,0.71,0.83,0.93,0.79,0.79,11.19,SA
+Sampdoria,Tomas Rincon,M,1.9,0.0,0.67,0.83,0.84,0.69,0.69,9.79,SA
+Sampdoria,Mickaël Cuisance,M,2.0,6.0,0.12,0.12,0.92,0.68,0.68,9.72,SA
+Sampdoria,Harry Winks,M,2.4,0.0,0.21,0.25,0.93,0.77,0.77,11.0,SA
+Sampdoria,Fabio Quagliarella,A,2.5,0.0,0.08,0.67,0.78,0.55,0.55,7.89,SA
+Sampdoria,Sam Lammers,A,3.5,0.0,0.75,0.92,0.84,0.72,0.72,10.25,SA
+Sassuolo,Andrea Consigli,G,3.8,0.0,0.88,0.88,0.96,0.96,0.96,13.37,SA
+Sassuolo,Ruan Tressoldi,F,2.1,0.0,0.33,0.42,0.9,0.77,0.77,10.88,SA
+Sassuolo,Rogerio,F,2.6,0.0,0.83,0.88,0.69,0.62,0.62,8.72,SA
+Sassuolo,Martin Erlic,F,3.2,0.0,0.67,0.67,0.92,0.76,0.76,10.84,SA
+Sassuolo,Pedro Mba Obiang Avomo,M,2.1,0.0,0.33,0.5,0.52,0.48,0.48,6.82,SA
+Sassuolo,Matheus Henrique,M,2.4,0.0,0.33,0.62,0.84,0.71,0.71,10.05,SA
+Sassuolo,Nadir Zortea,M,2.7,0.0,0.17,0.5,0.9,0.73,0.73,10.42,SA
+Sassuolo,Maxime Lopez,M,2.9,0.0,0.54,0.67,0.51,0.39,0.39,5.55,SA
+Sassuolo,Nedim Bajrami,M,3.7,0.0,0.38,0.92,0.93,0.72,0.72,10.3,SA
+Sassuolo,Davide Frattesi,M,4.2,0.0,0.96,0.96,0.93,0.79,0.79,11.19,SA
+Sassuolo,Gregoire Defrel,A,2.7,0.0,0.25,0.5,0.58,0.53,0.53,7.42,SA
+Spezia,Bartlomiej Dragowski,G,3.3,0.0,0.88,0.88,0.96,0.96,0.96,13.37,SA
+Spezia,Kelvin Amian,F,2.1,0.0,,,0.93,0.93,0.93,13.08,SA
+Spezia,Ethan Ampadu,F,2.5,2.0,0.71,0.71,0.93,0.88,0.88,12.36,SA
+Spezia,Dimitrios Nikolaou,F,2.5,0.0,0.83,0.88,0.93,0.79,0.79,11.19,SA
+Spezia,Arkadiusz Reca,F,2.6,0.0,0.71,0.79,0.93,0.79,0.79,11.19,SA
+Spezia,Albin Ekdal,M,2.1,0.0,0.25,0.67,0.63,0.47,0.47,6.76,SA
+Spezia,Mehdi Bourabia,M,2.5,0.0,0.92,0.96,0.93,0.79,0.79,11.19,SA
+Spezia,Kevin Agudelo,M,2.5,0.0,0.71,0.92,0.86,0.72,0.72,10.21,SA
+Spezia,Emmanuel Gyasi,M,2.7,0.0,0.83,0.83,0.9,0.77,0.77,10.88,SA
+Spezia,Daniele Verde,M,3.7,0.0,0.25,0.54,0.84,0.71,0.71,10.05,SA
+Spezia,M'Bala Nzola,A,4.7,0.0,0.75,0.79,0.9,0.73,0.73,10.42,SA
+Torino,Vanja Milinkovic-Savic,G,4.4,24.0,1.0,1.0,0.96,0.96,0.96,13.37,SA
+Torino,Ola Aina,F,2.6,0.0,0.38,0.54,0.58,0.47,0.47,6.72,SA
+Torino,Koffi Djidji,F,2.6,4.0,0.79,0.88,0.92,0.86,0.86,12.06,SA
+Torino,Perr Schuurs,F,2.7,5.0,0.71,0.75,0.93,0.86,0.86,12.09,SA
+Torino,Alessandro Buongiorno,F,2.7,1.0,0.71,0.83,0.78,0.68,0.68,9.65,SA
+Torino,Stephane Singo,F,3.3,1.0,0.5,0.75,0.93,0.77,0.77,11.0,SA
+Torino,Ivan Ilic,M,2.2,2.0,0.5,0.54,0.93,0.85,0.85,11.97,SA
+Torino,Karol Linetty,M,2.6,2.0,0.67,0.96,0.66,0.66,0.66,9.18,SA
+Torino,Aleksei Miranchuk,M,4.1,4.0,0.67,0.75,0.93,0.86,0.86,12.09,SA
+Torino,Yann Karamoh,A,2.8,2.0,0.12,0.46,0.69,0.69,0.69,9.64,SA
+Torino,Antonio Sanabria,A,3.6,4.0,0.58,0.79,0.93,0.68,0.68,9.75,SA
+Udinese,Marco Silvestri,G,4.2,0.0,0.96,0.96,0.96,0.96,0.96,13.37,SA
+Udinese,Rodrigo Becao,F,3.0,0.0,0.71,0.71,0.93,0.79,0.79,11.19,SA
+Udinese,Nehuen Perez,F,3.0,0.0,0.83,0.83,0.9,0.77,0.77,10.88,SA
+Udinese,Jaka Bijol,F,3.2,0.0,0.79,0.79,0.93,0.79,0.79,11.19,SA
+Udinese,Destiny Udogie,F,4.8,0.0,0.79,0.79,0.93,0.79,0.79,11.19,SA
+Udinese,Tolgay Arslan,M,2.6,0.0,0.42,0.92,0.69,0.6,0.6,8.5,SA
+Udinese,Walace,M,3.0,0.0,0.96,0.96,0.93,0.79,0.79,11.19,SA
+Udinese,Roberto Pereyra,M,3.9,0.0,0.83,0.83,0.61,0.55,0.55,7.73,SA
+Udinese,Lazar Samardzic,M,4.3,0.0,0.33,0.92,0.78,0.67,0.67,9.45,SA
+Udinese,Isaac Success,A,3.2,0.0,0.58,0.96,0.84,0.71,0.71,10.05,SA
+Udinese,Beto,A,5.3,0.0,0.62,0.96,0.93,0.79,0.79,11.19,SA
+AC Horsens,Samuel Brolin,G,3.5,0.0,,,0.98,0.98,0.98,2.94,SL
+AC Horsens,Mikkel Møller Lassen,F,1.9,0.0,,,0.95,0.95,0.95,2.85,SL
+AC Horsens,James Gomez,F,2.4,0.0,,,0.95,0.95,0.95,2.85,SL
+AC Horsens,Jacob Buus Jacobsen,F,2.9,0.0,,,0.95,0.95,0.95,2.85,SL
+AC Horsens,Malte Kiilerich Hansen,F,2.9,0.0,,,0.95,0.95,0.95,2.85,SL
+AC Horsens,Magnus Riisgaard Jensen,F,3.9,0.0,,,0.95,0.95,0.95,2.85,SL
+AC Horsens,David Kruse,M,2.4,0.0,,,0.95,0.95,0.95,2.85,SL
+AC Horsens,Moses Opondo,M,2.6,0.0,,,0.95,0.95,0.95,2.85,SL
+AC Horsens,Thomas Santos,M,2.9,0.0,,,0.95,0.95,0.95,2.85,SL
+AC Horsens,Lubambo Musonda,M,3.5,0.0,,,0.95,0.95,0.95,2.85,SL
+AC Horsens,Aron Sigurdarson,A,4.5,0.0,,,0.95,0.95,0.95,2.85,SL
+AGF,Jesper Hansen,G,4.7,0.0,,,0.98,0.98,0.98,2.94,SL
+AGF,Thomas Kristensen,F,3.1,0.0,,,0.95,0.9,0.9,2.75,SL
+AGF,Yann Aurel Bisseck,F,3.6,0.0,,,0.95,0.95,0.95,2.85,SL
+AGF,Felix Beijmo,F,3.6,0.0,,,0.95,0.95,0.95,2.85,SL
+AGF,Frederik Tingager,F,3.8,0.0,,,0.95,0.95,0.95,2.85,SL
+AGF,Nicolai Poulsen,M,2.5,0.0,,,0.95,0.95,0.95,2.85,SL
+AGF,Gift Links,M,3.7,0.0,,,0.95,0.8,0.8,2.55,SL
+AGF,Kevin Yakob,M,4.0,0.0,,,0.95,0.95,0.95,2.85,SL
+AGF,Mikael Anderson,M,4.2,0.0,,,0.95,0.95,0.95,2.85,SL
+AGF,Sigurd Haugen,A,5.1,0.0,,,0.95,0.95,0.95,2.85,SL
+AGF,Patrick Mortensen,A,7.6,0.0,,,0.95,0.95,0.95,2.85,SL
+AaB,Theo Sander,G,3.5,0.0,,,0.98,0.98,0.98,2.94,SL
+AaB,Daniel Granli,F,2.5,0.0,,,0.95,0.95,0.95,2.85,SL
+AaB,Rasmus Thelander,F,2.9,0.0,,,0.95,0.95,0.95,2.85,SL
+AaB,Lars Kramer,F,3.0,0.0,,,0.95,0.95,0.95,2.85,SL
+AaB,Kasper Jørgensen,F,3.4,0.0,,,0.94,0.94,0.94,2.81,SL
+AaB,Malthe Højholt,M,2.4,0.0,,,0.95,0.95,0.95,2.85,SL
+AaB,Lucas Andersen,M,4.0,0.0,,,0.95,0.95,0.95,2.85,SL
+AaB,Iver Fossum,M,5.0,0.0,,,0.95,0.95,0.95,2.85,SL
+AaB,Louka Prip Andreasen,M,5.5,0.0,,,0.95,0.95,0.95,2.85,SL
+AaB,Allan Sousa,A,4.5,0.0,,,0.95,0.95,0.95,2.85,SL
+AaB,Nicklas Helenius,A,7.5,0.0,,,0.95,0.95,0.95,2.85,SL
+Brøndby IF,Mads Hermansen,G,5.2,0.0,,,0.98,0.98,0.98,2.94,SL
+Brøndby IF,Frederik Winther,F,3.2,0.0,,,0.95,0.95,0.95,2.85,SL
+Brøndby IF,Kevin Tshiembe,F,3.6,0.0,,,0.95,0.95,0.95,2.85,SL
+Brøndby IF,Blas Riveros,F,4.2,0.0,,,0.95,0.95,0.95,2.85,SL
+Brøndby IF,Joe Bell,M,3.0,0.0,,,0.95,0.7,0.7,2.35,SL
+Brøndby IF,Mathias Greve,M,3.7,0.0,,,0.95,0.9,0.9,2.75,SL
+Brøndby IF,Håkon Evjen,M,4.6,0.0,,,0.95,0.95,0.95,2.85,SL
+Brøndby IF,Daniel Wass,M,6.3,0.0,,,0.95,0.95,0.95,2.85,SL
+Brøndby IF,Nicolai Vallys,M,8.1,0.0,,,0.95,0.95,0.95,2.85,SL
+Brøndby IF,Simon Hedlund,A,6.2,0.0,,,0.95,0.95,0.95,2.85,SL
+Brøndby IF,Ohi Omoijuanfo,A,7.5,0.0,,,0.95,0.95,0.95,2.85,SL
+FC København,Kamil Grabara,G,5.8,0.0,,,0.98,0.98,0.98,2.94,SL
+FC København,Elias Jelert,F,4.3,0.0,,,0.95,0.95,0.95,2.85,SL
+FC København,Christian Sørensen,F,4.9,0.0,,,0.95,0.95,0.95,2.85,SL
+FC København,Davit Khocholava,F,5.2,0.0,,,0.95,0.7,0.7,2.35,SL
+FC København,Denis Vavro,F,5.7,0.0,,,0.95,0.95,0.95,2.85,SL
+FC København,Rasmus Falk Jensen,M,5.6,0.0,,,0.95,0.95,0.95,2.85,SL
+FC København,Hakon Arnar Haraldsson,M,5.6,0.0,,,0.95,0.95,0.95,2.85,SL
+FC København,Diogo Goncalves,M,6.1,0.0,,,0.95,0.7,0.7,2.35,SL
+FC København,Lukas Lerager,M,6.3,0.0,,,0.95,0.9,0.9,2.75,SL
+FC København,Viktor Claesson,M,8.9,0.0,,,0.95,0.95,0.95,2.85,SL
+FC København,Mohamed Daramy,A,7.7,0.0,,,0.95,0.95,0.95,2.85,SL
+FC Midtjylland,Jonas Lössl,G,5.1,0.0,,,0.98,0.98,0.98,2.94,SL
+FC Midtjylland,Stefan Gartenmann,F,4.6,0.0,,,0.95,0.95,0.95,2.85,SL
+FC Midtjylland,Paulinho,F,4.7,0.0,,,0.95,0.85,0.85,2.65,SL
+FC Midtjylland,Henrik Dalsgaard,F,5.0,0.0,,,0.95,0.8,0.8,2.55,SL
+FC Midtjylland,Joel Andersson,F,5.0,0.0,,,0.95,0.85,0.85,2.65,SL
+FC Midtjylland,Emiliano Martinez,M,3.6,0.0,,,0.95,0.95,0.95,2.85,SL
+FC Midtjylland,Armin Gigovic,M,4.0,0.0,,,0.95,0.95,0.95,2.85,SL
+FC Midtjylland,Kristoffer Olsson,M,4.1,0.0,,,0.95,0.7,0.7,2.35,SL
+FC Midtjylland,Emam Ashour,M,4.7,0.0,,,0.95,0.95,0.95,2.85,SL
+FC Midtjylland,Gustav Isaksen,M,7.6,0.0,,,0.95,0.95,0.95,2.85,SL
+FC Midtjylland,Astrit Selmani,A,6.5,0.0,,,0.6,0.6,0.6,1.8,SL
+FC Nordsjælland,Andreas Hansen,G,5.6,0.0,,,0.98,0.98,0.98,2.94,SL
+FC Nordsjælland,Daniel Svensson,F,3.5,0.0,,,0.6,0.6,0.6,1.8,SL
+FC Nordsjælland,Oliver Villadsen,F,5.0,0.0,,,0.95,0.95,0.95,2.85,SL
+FC Nordsjælland,Martin Frese,M,3.1,0.0,,,0.95,0.95,0.95,2.85,SL
+FC Nordsjælland,Mads Bidstrup,M,3.6,0.0,,,0.95,0.95,0.95,2.85,SL
+FC Nordsjælland,Jacob Steen Christensen,M,3.6,0.0,,,0.95,0.95,0.95,2.85,SL
+FC Nordsjælland,Mohammed Diomande,M,5.6,0.0,,,0.95,0.95,0.95,2.85,SL
+FC Nordsjælland,Benjamin Nygren,A,3.5,0.0,,,0.2,0.2,0.2,0.6,SL
+FC Nordsjælland,Wahid Faghir,A,4.5,0.0,,,0.9,0.9,0.9,2.7,SL
+FC Nordsjælland,Ernest Nuamah,A,6.8,0.0,,,0.95,0.95,0.95,2.85,SL
+FC Nordsjælland,Emiliano Marcondes,A,7.3,0.0,,,0.95,0.95,0.95,2.85,SL
+Lyngby BK,Mads Kikkenborg,G,3.0,0.0,,,0.98,0.98,0.98,2.94,SL
+Lyngby BK,Lucas Hey,F,2.0,0.0,,,0.95,0.95,0.95,2.85,SL
+Lyngby BK,Brian Hamalainen,F,2.5,0.0,,,0.95,0.95,0.95,2.85,SL
+Lyngby BK,Pascal Gregor,F,2.5,0.0,,,0.95,0.95,0.95,2.85,SL
+Lyngby BK,Casper 'Dani' Winther,M,2.0,0.0,,,0.95,0.95,0.95,2.85,SL
+Lyngby BK,Tobias Storm,M,2.0,0.0,,,0.95,0.95,0.95,2.85,SL
+Lyngby BK,Parfait Bizoza,M,2.5,0.0,,,0.95,0.95,0.95,2.85,SL
+Lyngby BK,Rezan Corlu,M,3.0,0.0,,,0.95,0.95,0.95,2.85,SL
+Lyngby BK,Sævar Atli Magnusson,A,3.0,0.0,,,0.95,0.95,0.95,2.85,SL
+Lyngby BK,Magnus Kaastrup,A,3.0,0.0,,,0.95,0.95,0.95,2.85,SL
+Lyngby BK,Frederik Gytkjær,A,3.5,0.0,,,0.95,0.95,0.95,2.85,SL
+OB,Hans Christian Bernat,G,3.6,0.0,,,0.98,0.98,0.98,2.94,SL
+OB,Gustav Grubbe,F,2.5,0.0,,,0.95,0.95,0.95,2.85,SL
+OB,Jørgen Skjelvik,F,2.5,0.0,,,0.95,0.95,0.95,2.85,SL
+OB,Jeppe Tverskov,F,3.0,0.0,,,0.95,0.95,0.95,2.85,SL
+OB,Aske Adelgaard,F,3.0,0.0,,,0.95,0.95,0.95,2.85,SL
+OB,Mihajlo Ivancevic,F,3.5,0.0,,,0.95,0.95,0.95,2.85,SL
+OB,Alasana Manneh,M,3.0,0.0,,,0.95,0.7,0.7,2.35,SL
+OB,Naatan Skyttä,M,3.5,0.0,,,0.95,0.95,0.95,2.85,SL
+OB,Franco Tongya,M,4.0,0.0,,,0.94,0.65,0.65,2.24,SL
+OB,Mads Frøkjær-Jensen,M,4.6,0.0,,,0.95,0.95,0.95,2.85,SL
+OB,Emmanuel Sabbi,M,5.5,0.0,,,0.95,0.95,0.95,2.85,SL
+Randers FC,Patrik Carlgren,G,4.7,0.0,,,0.98,0.98,0.98,2.94,SL
+Randers FC,Mikkel Kallesøe,F,2.7,0.0,,,0.95,0.85,0.85,2.65,SL
+Randers FC,Carl Johansson,F,3.1,0.0,,,0.95,0.9,0.9,2.75,SL
+Randers FC,Adam Andersson,F,3.7,0.0,,,0.95,0.7,0.7,2.35,SL
+Randers FC,Daniel Høegh,F,4.1,0.0,,,0.95,0.95,0.95,2.85,SL
+Randers FC,Mads Enggård,M,2.0,0.0,,,0.95,0.95,0.95,2.85,SL
+Randers FC,Simen Nordli,M,2.6,0.0,,,0.95,0.9,0.9,2.75,SL
+Randers FC,Tobias Klysner,M,3.0,0.0,,,0.95,0.55,0.55,2.05,SL
+Randers FC,Lasse Berg Johnsen,M,3.1,0.0,,,0.95,0.95,0.95,2.85,SL
+Randers FC,Alhaji Kamara,A,3.6,0.0,,,0.95,0.45,0.45,1.85,SL
+Randers FC,Marvin Egho,A,4.5,0.0,,,0.95,0.9,0.9,2.75,SL
+Silkeborg IF,Nicolai Larsen,G,4.5,0.0,,,0.98,0.98,0.98,2.94,SL
+Silkeborg IF,Oliver Sonne,F,3.0,0.0,,,0.95,0.95,0.95,2.85,SL
+Silkeborg IF,Joel Felix,F,3.5,0.0,,,0.95,0.95,0.95,2.85,SL
+Silkeborg IF,Lukas Engel,F,4.0,0.0,,,0.95,0.95,0.95,2.85,SL
+Silkeborg IF,Tobias Salquist,F,4.5,0.0,,,0.95,0.95,0.95,2.85,SL
+Silkeborg IF,Mark Brink,M,3.0,0.0,,,0.95,0.95,0.95,2.85,SL
+Silkeborg IF,Stefan Teitur Thordarson,M,3.5,0.0,,,0.95,0.95,0.95,2.85,SL
+Silkeborg IF,Anders Klynge,M,4.0,0.0,,,0.95,0.95,0.95,2.85,SL
+Silkeborg IF,Kasper Kusk,M,6.0,0.0,,,0.95,0.95,0.95,2.85,SL
+Silkeborg IF,Sebastian Jørgensen,M,7.0,0.0,,,0.95,0.95,0.95,2.85,SL
+Silkeborg IF,Tonni Adamsen,A,5.2,0.0,,,0.95,0.95,0.95,2.85,SL
+Viborg FF,Lucas Lund Pedersen,G,5.6,0.0,,,0.98,0.98,0.98,2.94,SL
+Viborg FF,Zan Zaletel,F,3.1,0.0,,,0.95,0.95,0.95,2.85,SL
+Viborg FF,Daniel Anyembe,F,3.1,0.0,,,0.95,0.95,0.95,2.85,SL
+Viborg FF,Nicolas Bürgy,F,3.6,0.0,,,0.95,0.95,0.95,2.85,SL
+Viborg FF,Anton Gaaei,F,3.6,0.0,,,0.95,0.95,0.95,2.85,SL
+Viborg FF,Jeppe Grønning,M,3.5,0.0,,,0.95,0.8,0.8,2.55,SL
+Viborg FF,Ibrahim Said,M,3.7,0.0,,,0.95,0.8,0.8,2.55,SL
+Viborg FF,Elias Achouri,M,3.9,0.0,,,0.95,0.95,0.95,2.85,SL
+Viborg FF,Jakob Bonde,M,4.0,0.0,,,0.65,0.65,0.55,1.85,SL
+Viborg FF,Clint Leemans,M,6.0,0.0,,,0.95,0.95,0.95,2.85,SL
+Viborg FF,Alassana Jatta,A,3.2,0.0,,,0.95,0.9,0.9,2.75,SL
