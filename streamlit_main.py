@@ -1,6 +1,4 @@
 import streamlit as st
-from holdetDK_WebApp import playersValCalc, distanceToTopCalc, teamValTopCalc, modelBeskrivelseCalc, optakterCalc, \
-    popularitsprocenterCalc, predictedLineupsCalc, GWinfoCalc, runderCalc, highscoreCalc, forsideCalc, lineupDataCalc
 import pathlib
 from bs4 import BeautifulSoup
 import logging
